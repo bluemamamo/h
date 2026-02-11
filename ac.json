@@ -9,7 +9,10 @@
     "6AE0-283B-FBFC-D27F", //Feb 11, 2026 8:38pm
     "550E-A174-5783-A48D", //Feb 11, 2026 9:59pm
     "A0B5-5CFF-7E1B-FF2D", //Feb 11, 2026 10:31pm
-    "0000-0000-0000-0000"
+    "0000-0000-0000-0000",
+    "",
+    "",
+    ""
     
   ],
   "7day": [
@@ -41,7 +44,7 @@
     "7E22-36B5-3943-B9CE", //Satoru Customer HWID
     "6EF7-AB00-89E5-1855", //Tupac Customer HWID
     "5C78-6FF0-3993-C685", //Satoru Customer HWID
-    "DD4D-7138-4F3B-BBE9", //Sigbin - HevAbisaya HWID
+    "65B0-AF90-6297-C691", //Sigbin - HevAbisaya HWID
     "C698-2296-14C7-3171", //FliperCobra HWID 
     "555D-4614-4E47-729C", //haejiadji HWID
     "CE77-C5E9-C852-2238", //mjppanisal HWID
@@ -58,6 +61,7 @@
     ""
   ]
 }
+
 
 
 
