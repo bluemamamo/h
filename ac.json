@@ -33,8 +33,8 @@
     "F9A0-3B8D-AAF3-C88F", //Cresiya HWID
     "43F9-1BFC-E688-A49B", //Doc HWID
     "408B-BE0C-F4D9-A92D", //Mxvss HWID
-    "33D1-37A8-8D55-1C40", //Mann1 HWID
-    "5A94-4F0E-BFC9-BC78", //Mann2 HWID
+    "DC01-A549-DE35-E3CF", //Mann HWID
+    "5A94-4F0E-BFC9-BC78", //Mann - tropa HWID
     "0A1C-4B8D-422F-B127", //Dodong HWID
     "58D5-3999-2DD7-F107", //GmbH HWID
     "374F-F60E-5D12-DB23", //Satoru HWID
@@ -58,6 +58,7 @@
     ""
   ]
 }
+
 
 
 
