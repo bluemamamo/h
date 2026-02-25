@@ -8,5 +8,14 @@
   > Added minimize button
   > Added Simple Bypass
 
+------------------------------------------
+
+  * Version 5.7.1 - February 25, 2026
+  
+------------------------------------------
+
+  > Added Funniest title
+  > Improved Security
 
 ------------------------------------------
+
