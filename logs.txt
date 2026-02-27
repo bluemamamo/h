@@ -1,20 +1,19 @@
 ------------------------------------------
 
-  * Version 5.7.0 - February 21, 2026
-  
-------------------------------------------
-
-  > Improved injection stability
-  > Added minimize button
-  > Added Simple Bypass
-
-------------------------------------------
-
   * Version 5.7.1 - February 25, 2026
   
 ------------------------------------------
 
   > Added Funniest title
   > Improved Security
+
+------------------------------------------
+
+  * Version 5.7.1 FIX - February 28, 2026
+  
+------------------------------------------
+
+  > Added Auto Game Detect Version
+  > Improvement Security
 
 ------------------------------------------
