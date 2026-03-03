@@ -18,7 +18,7 @@
     "0000-0000-0000-0000"
   ],
   "lifetime": [
-    "", //MY HWID F8F3-857A-AF1A-4445
+    "F8F3-857A-AF1A-4445", //MY HWID
     "B597-D11B-81B8-7233", //DeadSec HWID
     "F9A0-3B8D-AAF3-C88F", //Cresiya HWID
     "43F9-1BFC-E688-A49B", //Doc HWID
@@ -50,6 +50,7 @@
     "9F18-7575-7A18-6BA5" //Keiffer John HWID
   ]
 }
+
 
 
 
