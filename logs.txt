@@ -1,20 +1,13 @@
 ------------------------------------------
 
-  * Version 5.7.1 - February 25, 2026
+  * Version 5.7.4 - March 10, 2026
   
 ------------------------------------------
 
-  > Added Funniest title
-  > Improved Security
-
-------------------------------------------
-
-  * Version 5.7.1 FIX - February 28, 2026
-  
-------------------------------------------
-
-  > Added Auto Detect Game Version
+  > Added Magic Bullet x1.5
+  > Fix FPS Drop
   > Improvement Security
 
 ------------------------------------------
+
 
