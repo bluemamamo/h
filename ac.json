@@ -1,6 +1,5 @@
 {
   "4day": [
-    "03B5-9702-A527-4BB3", //March 6, 2026 9:17pm
     "6B62-B9D1-3C25-B560", //March 9, 2026 9:46pm
     "B1D4-E51B-1985-773A", //March 10, 2026 12:47pm
     "0968-B697-49FE-E976", //March 10, 2026 1:37pm
@@ -11,8 +10,6 @@
     ""
   ],
   "7day": [
-    "550E-A174-5783-A48D", //March 5, 2026 1:43am
-    "F0A5-87DB-9DBE-D046", //March 5, 2026 3:00pm
     "9465-DCAD-6A7C-5E6B", //March 9, 2026 12:00pm
     "BD31-87E7-FA19-48BC" //March 9, 2026 4:56pm
     "",
@@ -47,7 +44,7 @@
     "555D-4614-4E47-729C", //haejiadji HWID
     "CE77-C5E9-C852-2238", //mjppanisal HWID
     "F2BA-D6F8-D0B0-3295", //zacky HWID - January 1reset
-    "AE6B-4FD0-38A0-FD53", //Pezzimyzt HWID
+    "8BF5-EECE-D5FF-D270", //Pezzimyzt HWID
     "936A-2ED2-CC06-056D", //elvengwaps HWID
     "9471-8445-0FA3-5B3F", //Vex HWID
     "F7F5-C169-8B11-3C52", //angeloegasan / egasangelo HWID
@@ -65,6 +62,7 @@
     ""
   ]
 }
+
 
 
 
