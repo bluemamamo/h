@@ -1,5 +1,16 @@
 ------------------------------------------
 
+  * Version 5.7.5 - March 14, 2026
+  
+------------------------------------------
+
+  > Fix Auto update loader
+  > Fix Invalid HWID
+  > Improvement Security
+  > Remove temporary Lower Memory
+
+------------------------------------------
+
   * Version 5.7.4 - March 10, 2026
   
 ------------------------------------------
@@ -9,5 +20,6 @@
   > Improvement Security
 
 ------------------------------------------
+
 
 
