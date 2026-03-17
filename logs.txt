@@ -1,22 +1,10 @@
 ------------------------------------------
 
-  * Version 5.7.5 - March 14, 2026
+  * Version 5.7.6 - March 18, 2026
   
 ------------------------------------------
 
-  > Fix Auto update loader
-  > Fix Invalid HWID
-  > Improvement Security
-  > Remove temporary Lower Memory
-
-------------------------------------------
-
-  * Version 5.7.4 - March 10, 2026
-  
-------------------------------------------
-
-  > Added Magic Bullet x1.5
-  > Fix FPS Drop
+  > Fix Auto Ban Ingame
   > Improvement Security
 
 ------------------------------------------
