@@ -7,6 +7,10 @@
   > Fix Auto Ban Ingame
   > Improvement Security
 
+  * NEW FEATURES:
+  > Added FOV Changer
+
+
 ------------------------------------------
 
 
