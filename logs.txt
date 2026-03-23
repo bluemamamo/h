@@ -1,20 +1,11 @@
 ------------------------------------------
 
-  * Version 5.7.9 - March 22, 2026
+  * Version 5.8.1 - March 23, 2026
   
 ------------------------------------------
 
-  > Added Bypass HWID BAN / DEVICE BAN
-  > Added Bypass LOGIN INFO
-  > Improvement Security
-
-------------------------------------------
-
-   * Version 5.7.8 - March 21, 2026
-  
-------------------------------------------
-
-  > Added New Bypass Method
+  > Added New Method Bypass
+  > Fix Cause FPS drop / hang pc
   > Improvement Security
   > New Better UI v2
 
