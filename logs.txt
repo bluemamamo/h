@@ -1,26 +1,12 @@
 ------------------------------------------
 
-  * Version 5.8.2 - March 24, 2026
+  * Version 5.8.1 - March 23, 2026
   
 ------------------------------------------
 
-  > Added New Magic Bullet Adjustable
+  > Added New Method Bypass
   > Fix Cause FPS drop / hang pc
   > Improvement Security
   > New Better UI v2
 
-NEW HOTKEY:
-- [F1] CHAMS TOGGLE
-- [F2] BEHIND WALL COLOR
-- [F3] THROUGH WALL COLOR
-- [F4] MAGICBULLET TOGGLE
-- [F6] MAGICBULLET ADJUSTABLE
-- [F7] MACRO RECOIL (NOT REAL RECOIL)
-- [F8] FOV TOGGLE
-- [F9] FOV INCREASE +
-- [F10] FOV DECREASE -
-- [F11] HIGH SCOPE
-
 ------------------------------------------
-
-
