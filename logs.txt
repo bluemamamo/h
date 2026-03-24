@@ -23,15 +23,4 @@ NEW HOTKEY:
 
 ------------------------------------------
 
-  * Version 5.8.1 - March 23, 2026
-  
-------------------------------------------
-
-  > Added New Method Bypass
-  > Fix Cause FPS drop / hang pc
-  > Improvement Security
-  > New Better UI v2
-
-------------------------------------------
-
 
