@@ -1,22 +1,11 @@
 ------------------------------------------
 
-  * Version 5.8.2 - March 26, 2026
+  * Version 5.9.0 - April 8, 2026
   
 ------------------------------------------
 
-  > Added New Method Bypass
-  > Fix Bypass not running correctly
-  > Improvement Security
-
-------------------------------------------
-
-  * Version 5.8.1 - March 23, 2026
-  
-------------------------------------------
-
-  > Added New Method Bypass
-  > Fix Cause FPS drop / hang pc
-  > Improvement Security
-  > New Better UI v2
+  > New Method Bypass
+  > New ESP BOX, LINE, DOT
+  > FIX HWID System Validation
 
 ------------------------------------------
