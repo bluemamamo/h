@@ -1,21 +1,10 @@
 ------------------------------------------
 
-  * Version 5.9.1 - April 10, 2026
+  * Version 5.9.1 - April 13, 2026
   
 ------------------------------------------
 
-  > Added Save / load config
-  > New UI format and layout
-  > FIX GameCrash
-
-------------------------------------------
-
-  * Version 5.9.0 - April 8, 2026
-  
-------------------------------------------
-
-  > New Method Bypass
-  > New ESP BOX, LINE, DOT
-  > FIX HWID System Validation
+  > Update UI Menu
+  > Change New HWID system
 
 ------------------------------------------
