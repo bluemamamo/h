@@ -1,178 +1,53 @@
 {
   "1day": [
-    "0F13-186C-E487-AC6C",
-    "",
-    "",
-    "",
-    ""
+    "0F13-186C-E487-AC6C"
   ],
-  "4days": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  "7days": [
-    "",
-    "",
-    ""
-  ],
+  "4days": [],
+  "7days": [],
   "15days": [
-    "D2BD-4505-3B76-6A86", //June 15, 2026 - 5:15pm - Kiro Customer
-    "",
-    "",
-    ""
+    "D2BD-4505-3B76-6A86"
   ],
-  "30day": [
+  "30days": [
     "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000",
-    "0000-0000-0000-0000"
+    "1111-1111-1111-1111"
   ],
   "lifetime": [
-    "7FCB-58C0-3AB4-3AF7", //My HWID
-    "85D4-A6CE-D5F1-C928", //DeadSec HWID
-    "D997-A849-6D43-49A8", //Cresiya HWID
-    "05DE-D815-997F-18CA", //Anomalocaris / Doc Q HWID
-    "0814-27DA-2B3D-FD0F", //flyfferschan HWID
-    "DC01-A549-DE35-E3CF", //Mann HWID
-    "5A94-4F0E-BFC9-BC78", //Mann - tropa HWID
-    "42E5-D369-11DF-DD26", //Dodong HWID
-    "58D5-3999-2DD7-F107", //GmbH HWID
-    "374F-F60E-5D12-DB23", //Satoru HWID
-    "7E22-36B5-3943-B9CE", //Satoru Customer HWID
-    "E37F-FAFD-69AA-E7CA", //Nilo HWID
-    "5C78-6FF0-3993-C685", //Satoru Customer HWID
-    "28DB-7FBC-60B7-D251", //Sigbin - HevAbisaya HWID
-    "C698-2296-14C7-3171", //FliperCobra HWID 
-    "555D-4614-4E47-729C", //haejiadji HWID
-    "F2BA-D6F8-D0B0-3295", //zacky HWID - January 1reset
-    "BEB9-6934-FF99-27E6", //Pezzimyzt HWID
-    "B240-2816-7F24-30F8", //elvengwaps HWID
-    "9471-8445-0FA3-5B3F", //Vex HWID
-    "827C-6844-5AF0-E40E", //angeloegasan / egasangelo HWID
-    "83BE-550F-6AF3-6AF0", //Jorge HWID
-    "5855-0458-FD46-CAF4", //Zeus HWID
-    "13E9-3444-6EAC-BF6F", //BlackRose HWID
-    "7645-F741-B13B-E6AE", //Shawarma HWID
-    "60C1-0135-E11E-E8FF", //Kuys Payat HWID
-    "3C27-8A8E-22EC-63AB", //Keiffer John HWID
-    "E38F-9D04-8B33-3AFA", //galactvs HWID
-    "86F0-EA9E-F8F4-8E65", //Bjayy HWID
-    "03B5-9702-A527-4BB3", //cris HWID
-    "B500-F2CF-0B80-E846", //jeff018339 HWID
-    "22FB-C02B-074E-589C", //mjppanisal21 HWID
-    "417C-4BAB-230B-2D07", //Himoko HWID
-    "408F-899A-CE1D-21FE", //vencha0446_58424 HWID
-    "6B92-F681-3C46-12AC", //DOX HWID
-    "80CA-11EA-080C-02D7", //PEPA HWID
-    "DABB-8B6C-CF89-8D8D" //Ampong HWID
+    "7FCB-58C0-3AB4-3AF7",
+    "85D4-A6CE-D5F1-C928",
+    "D997-A849-6D43-49A8",
+    "05DE-D815-997F-18CA",
+    "0814-27DA-2B3D-FD0F",
+    "DC01-A549-DE35-E3CF",
+    "5A94-4F0E-BFC9-BC78",
+    "42E5-D369-11DF-DD26",
+    "58D5-3999-2DD7-F107",
+    "374F-F60E-5D12-DB23",
+    "7E22-36B5-3943-B9CE",
+    "E37F-FAFD-69AA-E7CA",
+    "5C78-6FF0-3993-C685",
+    "28DB-7FBC-60B7-D251",
+    "C698-2296-14C7-3171",
+    "555D-4614-4E47-729C",
+    "F2BA-D6F8-D0B0-3295",
+    "BEB9-6934-FF99-27E6",
+    "B240-2816-7F24-30F8",
+    "9471-8445-0FA3-5B3F",
+    "827C-6844-5AF0-E40E",
+    "83BE-550F-6AF3-6AF0",
+    "5855-0458-FD46-CAF4",
+    "13E9-3444-6EAC-BF6F",
+    "7645-F741-B13B-E6AE",
+    "60C1-0135-E11E-E8FF",
+    "3C27-8A8E-22EC-63AB",
+    "E38F-9D04-8B33-3AFA",
+    "86F0-EA9E-F8F4-8E65",
+    "03B5-9702-A527-4BB3",
+    "B500-F2CF-0B80-E846",
+    "22FB-C02B-074E-589C",
+    "417C-4BAB-230B-2D07",
+    "408F-899A-CE1D-21FE",
+    "9F67-A91E-C428-D595",
+    "80CA-11EA-080C-02D7",
+    "DABB-8B6C-CF89-8D8D"
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
