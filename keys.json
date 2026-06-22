@@ -128,11 +128,15 @@
       "key": "6L5N-18AT-GGMP-POXL",
       "createdAt": "2026-06-22T18:51:43.410Z",
       "expiresAt": "2026-06-23T18:51:43.410Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "unknown",
       "referer": "direct",
-      "userAgent": "unknown"
+      "userAgent": "unknown",
+      "verifiedAt": "2026-06-22T18:52:46.942Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "::1",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
     },
     {
       "key": "XPLE-GILH-F8OR-BY3L",
