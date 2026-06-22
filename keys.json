@@ -151,46 +151,6 @@
       "verifiedFrom": "linkvertise",
       "verifiedIP": "::1",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
-    },
-    {
-      "key": "STMF-ZIA4-JTQ3-K3LJ",
-      "createdAt": "2026-06-22T19:03:05.883Z",
-      "expiresAt": "2026-06-23T19:03:05.770Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct",
-      "userAgent": "unknown"
-    },
-    {
-      "key": "IRW5-IAKL-3TRT-Z9QZ",
-      "createdAt": "2026-06-22T19:03:13.079Z",
-      "expiresAt": "2026-06-23T19:03:13.078Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct",
-      "userAgent": "unknown"
-    },
-    {
-      "key": "CDEW-QX4T-3I7W-6RTA",
-      "createdAt": "2026-06-22T19:03:41.290Z",
-      "expiresAt": "2026-06-23T19:03:41.290Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct",
-      "userAgent": "unknown"
-    },
-    {
-      "key": "FZ1Z-U0LF-E1AY-45T3",
-      "createdAt": "2026-06-22T19:04:57.073Z",
-      "expiresAt": "2026-06-23T19:04:57.073Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct",
-      "userAgent": "unknown"
     }
   ]
 }
