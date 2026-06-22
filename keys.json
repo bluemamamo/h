@@ -51,42 +51,6 @@
       "verifiedIP": "::1"
     },
     {
-      "key": "TSZA-0YY8-CZS8-MA8C",
-      "createdAt": "2026-06-22T09:59:43.051Z",
-      "expiresAt": "2026-06-23T09:59:43.051Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct"
-    },
-    {
-      "key": "EKB7-RXTB-ILQB-N5A9",
-      "createdAt": "2026-06-22T10:03:07.516Z",
-      "expiresAt": "2026-06-23T10:03:07.516Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct"
-    },
-    {
-      "key": "QNSY-MSL9-F65G-RSMQ",
-      "createdAt": "2026-06-22T10:03:34.320Z",
-      "expiresAt": "2026-06-23T10:03:34.320Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct"
-    },
-    {
-      "key": "RUJ3-F041-96KY-9SMR",
-      "createdAt": "2026-06-22T10:04:14.074Z",
-      "expiresAt": "2026-06-23T10:04:14.074Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct"
-    },
-    {
       "key": "U4E5-A1WE-JVVY-TS2H",
       "createdAt": "2026-06-22T10:27:40.388Z",
       "expiresAt": "2026-06-23T10:27:40.388Z",
