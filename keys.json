@@ -102,10 +102,13 @@
       "key": "LAL8-UQQU-NQQC-25GE",
       "createdAt": "2026-06-22T18:49:23.375Z",
       "expiresAt": "2026-06-23T18:49:23.375Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "unknown",
-      "referer": "direct"
+      "referer": "direct",
+      "verifiedAt": "2026-06-22T18:49:41.256Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "::1"
     }
   ]
 }
