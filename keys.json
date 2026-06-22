@@ -109,6 +109,15 @@
       "verifiedAt": "2026-06-22T11:01:47.908Z",
       "verifiedFrom": "linkvertise",
       "verifiedIP": "::1"
+    },
+    {
+      "key": "X1I8-C8CS-RCOG-DWXW",
+      "createdAt": "2026-06-22T12:54:55.601Z",
+      "expiresAt": "2026-06-23T12:54:55.601Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct"
     }
   ]
 }
