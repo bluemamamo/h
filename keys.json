@@ -231,6 +231,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "XSNN-K2N8-GQ3Z-PKWT",
+      "createdAt": "2026-06-22T18:59:29.022Z",
+      "expiresAt": "2026-06-23T18:59:29.022Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
