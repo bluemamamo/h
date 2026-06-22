@@ -67,6 +67,15 @@
       "type": "1day",
       "ip": "unknown",
       "referer": "direct"
+    },
+    {
+      "key": "QNSY-MSL9-F65G-RSMQ",
+      "createdAt": "2026-06-22T10:03:34.320Z",
+      "expiresAt": "2026-06-23T10:03:34.320Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct"
     }
   ]
 }
