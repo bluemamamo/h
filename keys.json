@@ -119,6 +119,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "6L5N-18AT-GGMP-POXL",
+      "createdAt": "2026-06-22T18:51:43.410Z",
+      "expiresAt": "2026-06-23T18:51:43.410Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
