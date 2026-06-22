@@ -221,6 +221,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "9DWY-C64B-OWGC-ZKTO",
+      "createdAt": "2026-06-22T18:58:11.778Z",
+      "expiresAt": "2026-06-23T18:58:11.778Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
