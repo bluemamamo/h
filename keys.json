@@ -90,10 +90,13 @@
       "key": "U4E5-A1WE-JVVY-TS2H",
       "createdAt": "2026-06-22T10:27:40.388Z",
       "expiresAt": "2026-06-23T10:27:40.388Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "unknown",
-      "referer": "direct"
+      "referer": "direct",
+      "verifiedAt": "2026-06-22T10:30:32.832Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "::1"
     }
   ]
 }
