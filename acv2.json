@@ -1,4 +1,10 @@
 {
   "1day": [],
-  "pending": []
+  "pending": [
+    {
+      "hash": "f0722efbb5df49ac590b72391299073f",
+      "hwid": "683D-57FD-856B-7F19",
+      "createdAt": "2026-06-22T04:24:53.057Z"
+    }
+  ]
 }
