@@ -49,6 +49,15 @@
       "verifiedAt": "2026-06-22T08:14:13.143Z",
       "verifiedFrom": "direct",
       "verifiedIP": "::1"
+    },
+    {
+      "key": "TSZA-0YY8-CZS8-MA8C",
+      "createdAt": "2026-06-22T09:59:43.051Z",
+      "expiresAt": "2026-06-23T09:59:43.051Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct"
     }
   ]
 }
