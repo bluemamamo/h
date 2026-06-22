@@ -181,6 +181,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "FZ1Z-U0LF-E1AY-45T3",
+      "createdAt": "2026-06-22T19:04:57.073Z",
+      "expiresAt": "2026-06-23T19:04:57.073Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
