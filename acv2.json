@@ -1,10 +1,19 @@
 {
-  "1day": [],
+  "1day": [
+    {
+      "hash": "b3e2210cf58de1e9b06cf65579d1afe5",
+      "hwid": "683D-57FD-856B-7F19",
+      "activatedAt": "2026-06-22T12:00:00.000Z",
+      "trialEnd": "2026-06-23T12:00:00.000Z",
+      "status": "active",
+      "type": "1day"
+    }
+  ],
   "pending": [
     {
-      "hash": "a93d03699a0820bd4cfb813179e33789",
+      "hash": "d4e3321df69de2f9c17df76680e2bfe6",
       "hwid": "683D-57FD-856B-7F19",
-      "createdAt": "2026-06-22T04:13:27.322Z"
+      "createdAt": "2026-06-22T11:30:00.000Z"
     }
   ]
 }
