@@ -211,6 +211,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "5E32-6X5I-64CZ-AQS7",
+      "createdAt": "2026-06-22T18:58:05.527Z",
+      "expiresAt": "2026-06-23T18:58:05.527Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
