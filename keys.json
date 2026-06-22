@@ -8,41 +8,11 @@
       "type": "1day"
     },
     {
-      "key": "I5AS-P7I3-I7PO-EZF2",
-      "createdAt": "2026-06-22T05:14:26.439Z",
-      "expiresAt": "2026-06-23T05:14:26.439Z",
-      "status": "pending",
-      "type": "1day"
-    },
-    {
       "key": "II7I-5S36-SUI3-0366",
       "createdAt": "2026-06-22T07:43:29.612Z",
       "expiresAt": "2026-06-23T07:43:29.612Z",
       "status": "active",
       "type": "1day"
-    },
-    {
-      "key": "EVO1-ZY3G-2IOW-3B5A",
-      "createdAt": "2026-06-22T07:49:24.222Z",
-      "expiresAt": "2026-06-23T07:49:24.222Z",
-      "status": "pending",
-      "type": "1day"
-    },
-    {
-      "key": "N0SA-7RP8-C8XB-BZYK",
-      "createdAt": "2026-06-22T07:51:38.345Z",
-      "expiresAt": "2026-06-23T07:51:38.345Z",
-      "status": "pending",
-      "type": "1day"
-    },
-    {
-      "key": "LBWL-OQT8-PCMM-RBB2",
-      "createdAt": "2026-06-22T07:57:47.162Z",
-      "expiresAt": "2026-06-23T07:57:47.162Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "unknown",
-      "referer": "direct"
     },
     {
       "key": "5Q69-ZTQT-U8E8-B9PZ",
@@ -79,24 +49,6 @@
       "verifiedAt": "2026-06-22T08:14:13.143Z",
       "verifiedFrom": "direct",
       "verifiedIP": "::1"
-    },
-    {
-      "key": "UOO6-TP51-O49Z-CILQ",
-      "createdAt": "2026-06-22T08:33:07.403Z",
-      "expiresAt": "2026-06-23T08:33:07.403Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "::1",
-      "referer": "https://trial-hwid.onrender.com/"
-    },
-    {
-      "key": "YOKO-T8JW-DYPU-7QAM",
-      "createdAt": "2026-06-22T08:35:20.459Z",
-      "expiresAt": "2026-06-23T08:35:20.459Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "::1",
-      "referer": "https://trial-hwid.onrender.com/"
     }
   ]
 }
