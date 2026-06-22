@@ -1,26 +1,3 @@
 {
-  "1day": [],
-  "pending": [
-    {
-      "hash": "353125ad3460ca1b8a97a4901300fb17",
-      "hwid": "683D-57FD-856B-7F19",
-      "createdAt": "2026-06-22T04:32:06.173Z"
-    }
-  ],
-  "keys": [
-    {
-      "key": "70Z3-RGUK-HW5S-X3AP",
-      "createdAt": "2026-06-22T04:44:01.709Z",
-      "expiresAt": "2026-06-23T04:44:01.709Z",
-      "status": "pending",
-      "type": "1day"
-    },
-    {
-      "key": "EOT0-F767-VT95-BS6G",
-      "createdAt": "2026-06-22T04:45:51.118Z",
-      "expiresAt": "2026-06-23T04:45:51.118Z",
-      "status": "pending",
-      "type": "1day"
-    }
-  ]
+  "keys": []
 }
