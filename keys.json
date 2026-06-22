@@ -88,6 +88,15 @@
       "type": "1day",
       "ip": "::1",
       "referer": "https://trial-hwid.onrender.com/"
+    },
+    {
+      "key": "YOKO-T8JW-DYPU-7QAM",
+      "createdAt": "2026-06-22T08:35:20.459Z",
+      "expiresAt": "2026-06-23T08:35:20.459Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "::1",
+      "referer": "https://trial-hwid.onrender.com/"
     }
   ]
 }
