@@ -3,5 +3,13 @@
   "activatedAt": "2026-06-22T11:32:00.000Z",
   "trialEnd": "2026-06-22T23:32:00.000Z",
   "status": "active",
-  "type": "1day"
+  "type": "1day",
+  "1day": [],
+  "pending": [
+    {
+      "hash": "a93d03699a0820bd4cfb813179e33789",
+      "hwid": "683D-57FD-856B-7F19",
+      "createdAt": "2026-06-22T04:13:27.322Z"
+    }
+  ]
 }
