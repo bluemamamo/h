@@ -201,6 +201,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "C179-ZQBQ-YSBJ-PRTL",
+      "createdAt": "2026-06-22T18:57:59.587Z",
+      "expiresAt": "2026-06-23T18:57:59.587Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
