@@ -191,6 +191,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "8V1P-9VJ0-R6KU-GXN6",
+      "createdAt": "2026-06-22T18:57:47.373Z",
+      "expiresAt": "2026-06-23T18:57:47.373Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
