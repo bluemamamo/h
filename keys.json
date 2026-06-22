@@ -43,6 +43,15 @@
       "type": "1day",
       "ip": "unknown",
       "referer": "direct"
+    },
+    {
+      "key": "5Q69-ZTQT-U8E8-B9PZ",
+      "createdAt": "2026-06-22T08:01:19.534Z",
+      "expiresAt": "2026-06-23T08:01:19.534Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct"
     }
   ]
 }
