@@ -102,10 +102,13 @@
       "key": "T26V-O00O-GGUR-2I2Z",
       "createdAt": "2026-06-22T10:59:46.476Z",
       "expiresAt": "2026-06-23T10:59:46.476Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "unknown",
-      "referer": "direct"
+      "referer": "direct",
+      "verifiedAt": "2026-06-22T11:01:47.908Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "::1"
     }
   ]
 }
