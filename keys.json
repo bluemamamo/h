@@ -171,6 +171,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "CDEW-QX4T-3I7W-6RTA",
+      "createdAt": "2026-06-22T19:03:41.290Z",
+      "expiresAt": "2026-06-23T19:03:41.290Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
