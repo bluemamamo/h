@@ -48,10 +48,13 @@
       "key": "5Q69-ZTQT-U8E8-B9PZ",
       "createdAt": "2026-06-22T08:01:19.534Z",
       "expiresAt": "2026-06-23T08:01:19.534Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "unknown",
-      "referer": "direct"
+      "referer": "direct",
+      "verifiedAt": "2026-06-22T08:08:40.906Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "::1"
     },
     {
       "key": "ZKFE-KFDK-ELI2-3IZ3",
