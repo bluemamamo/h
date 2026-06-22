@@ -129,6 +129,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "XPLE-GILH-F8OR-BY3L",
+      "createdAt": "2026-06-22T18:52:26.522Z",
+      "expiresAt": "2026-06-23T18:52:26.522Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
