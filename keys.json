@@ -109,6 +109,16 @@
       "verifiedAt": "2026-06-22T18:49:41.256Z",
       "verifiedFrom": "direct",
       "verifiedIP": "::1"
+    },
+    {
+      "key": "0IEQ-SBTY-H9R5-M5QJ",
+      "createdAt": "2026-06-22T18:51:37.592Z",
+      "expiresAt": "2026-06-23T18:51:37.592Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
