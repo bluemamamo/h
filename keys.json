@@ -34,6 +34,15 @@
       "expiresAt": "2026-06-23T07:51:38.345Z",
       "status": "pending",
       "type": "1day"
+    },
+    {
+      "key": "LBWL-OQT8-PCMM-RBB2",
+      "createdAt": "2026-06-22T07:57:47.162Z",
+      "expiresAt": "2026-06-23T07:57:47.162Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct"
     }
   ]
 }
