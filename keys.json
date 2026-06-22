@@ -9,6 +9,16 @@
       "ip": "10.30.155.2",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "7YL4-6OL3-DRLK-954U",
+      "createdAt": "2026-06-22T21:12:55.039Z",
+      "expiresAt": "2026-06-23T21:12:55.039Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.28.187.2",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
