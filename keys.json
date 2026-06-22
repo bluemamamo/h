@@ -72,10 +72,13 @@
       "key": "N0YL-9NBD-IYM1-14T2",
       "createdAt": "2026-06-22T08:13:43.522Z",
       "expiresAt": "2026-06-23T08:13:43.522Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "unknown",
-      "referer": "direct"
+      "referer": "direct",
+      "verifiedAt": "2026-06-22T08:14:13.143Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "::1"
     }
   ]
 }
