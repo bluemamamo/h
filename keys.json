@@ -126,10 +126,13 @@
       "key": "M0BC-9H7W-WKEJ-WKW1",
       "createdAt": "2026-06-22T17:51:29.472Z",
       "expiresAt": "2026-06-23T17:51:29.472Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "unknown",
-      "referer": "direct"
+      "referer": "direct",
+      "verifiedAt": "2026-06-22T17:52:45.280Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "::1"
     }
   ]
 }
