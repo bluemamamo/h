@@ -58,6 +58,15 @@
       "type": "1day",
       "ip": "unknown",
       "referer": "direct"
+    },
+    {
+      "key": "EKB7-RXTB-ILQB-N5A9",
+      "createdAt": "2026-06-22T10:03:07.516Z",
+      "expiresAt": "2026-06-23T10:03:07.516Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct"
     }
   ]
 }
