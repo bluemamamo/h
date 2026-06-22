@@ -85,6 +85,15 @@
       "type": "1day",
       "ip": "unknown",
       "referer": "direct"
+    },
+    {
+      "key": "U4E5-A1WE-JVVY-TS2H",
+      "createdAt": "2026-06-22T10:27:40.388Z",
+      "expiresAt": "2026-06-23T10:27:40.388Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct"
     }
   ]
 }
