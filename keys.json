@@ -1,3 +1,11 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "CDZI-R0WD-HD3E-IPVC",
+      "createdAt": "2026-06-22T04:50:42.335Z",
+      "expiresAt": "2026-06-23T04:50:42.335Z",
+      "status": "pending",
+      "type": "1day"
+    }
+  ]
 }
