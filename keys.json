@@ -1,18 +1,3 @@
 {
-  "keys": [
-    {
-      "key": "DY4H-U4CO-VOL6-YMT4",
-      "createdAt": "2026-06-22T20:59:30.364Z",
-      "expiresAt": "2026-06-23T20:59:30.364Z",
-      "status": "active",
-      "type": "1day",
-      "ip": "10.29.236.131",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-06-22T21:00:02.364Z",
-      "verifiedFrom": "linkvertise",
-      "verifiedIP": "10.29.236.131",
-      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
-    }
-  ]
+  "keys": []
 }
