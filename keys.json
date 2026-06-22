@@ -142,11 +142,15 @@
       "key": "XPLE-GILH-F8OR-BY3L",
       "createdAt": "2026-06-22T18:52:26.522Z",
       "expiresAt": "2026-06-23T18:52:26.522Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "unknown",
       "referer": "direct",
-      "userAgent": "unknown"
+      "userAgent": "unknown",
+      "verifiedAt": "2026-06-22T18:56:28.763Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "::1",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
     },
     {
       "key": "PAH2-8HQI-PKXI-YY1O",
