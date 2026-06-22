@@ -147,6 +147,16 @@
       "ip": "unknown",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "PAH2-8HQI-PKXI-YY1O",
+      "createdAt": "2026-06-22T18:54:43.367Z",
+      "expiresAt": "2026-06-23T18:54:43.367Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "unknown",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
