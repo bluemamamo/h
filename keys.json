@@ -41,20 +41,6 @@
       "verifiedFrom": "linkvertise",
       "verifiedIP": "10.29.109.134",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-    },
-    {
-      "key": "KWJ4-ORLX-ZJ01-2N5L",
-      "createdAt": "2026-06-23T08:10:36.589Z",
-      "expiresAt": "2026-06-24T08:10:36.589Z",
-      "status": "active",
-      "type": "1day",
-      "ip": "10.24.127.129",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-06-23T08:10:53.531Z",
-      "verifiedFrom": "direct",
-      "verifiedIP": "10.29.95.133",
-      "verifiedUserAgent": "unknown"
     }
   ]
 }
