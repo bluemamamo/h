@@ -80,11 +80,15 @@
       "key": "3KHS-LWCU-R4UM-UP4X",
       "createdAt": "2026-06-23T15:01:23.450Z",
       "expiresAt": "2026-06-24T15:01:23.450Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.28.187.2",
       "referer": "direct",
-      "userAgent": "unknown"
+      "userAgent": "unknown",
+      "verifiedAt": "2026-06-23T15:02:35.134Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "10.29.95.133",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
