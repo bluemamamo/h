@@ -41,6 +41,16 @@
       "verifiedFrom": "linkvertise",
       "verifiedIP": "10.29.109.134",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "J1RH-54ND-ZWK0-NF6F",
+      "createdAt": "2026-06-23T08:17:46.039Z",
+      "expiresAt": "2026-06-24T08:17:46.039Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.109.134",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
