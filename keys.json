@@ -66,11 +66,15 @@
       "key": "QLFH-ZXT6-ARL8-9YMP",
       "createdAt": "2026-06-23T10:48:46.726Z",
       "expiresAt": "2026-06-24T10:48:46.726Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.24.127.129",
       "referer": "direct",
-      "userAgent": "unknown"
+      "userAgent": "unknown",
+      "verifiedAt": "2026-06-23T10:51:17.014Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "10.28.187.2",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
