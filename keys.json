@@ -89,6 +89,16 @@
       "verifiedFrom": "linkvertise",
       "verifiedIP": "10.29.95.133",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "8SMJ-JJMC-51WK-DNEN",
+      "createdAt": "2026-06-23T16:39:58.813Z",
+      "expiresAt": "2026-06-24T16:39:58.813Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.155.2",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
