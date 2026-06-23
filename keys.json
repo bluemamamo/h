@@ -19,6 +19,16 @@
       "ip": "10.29.144.4",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "0FLX-K31P-5DDX-6VST",
+      "createdAt": "2026-06-23T01:59:20.580Z",
+      "expiresAt": "2026-06-24T01:59:20.580Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.95.133",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
