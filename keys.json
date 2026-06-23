@@ -46,11 +46,15 @@
       "key": "KWJ4-ORLX-ZJ01-2N5L",
       "createdAt": "2026-06-23T08:10:36.589Z",
       "expiresAt": "2026-06-24T08:10:36.589Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.24.127.129",
       "referer": "direct",
-      "userAgent": "unknown"
+      "userAgent": "unknown",
+      "verifiedAt": "2026-06-23T08:10:53.531Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.29.95.133",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
