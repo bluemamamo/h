@@ -9,6 +9,16 @@
       "ip": "10.28.187.2",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "U0YK-V8XA-75V5-DD18",
+      "createdAt": "2026-06-23T01:46:24.293Z",
+      "expiresAt": "2026-06-24T01:46:24.293Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.144.4",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
