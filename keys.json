@@ -61,6 +61,16 @@
       "ip": "10.25.246.132",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "QLFH-ZXT6-ARL8-9YMP",
+      "createdAt": "2026-06-23T10:48:46.726Z",
+      "expiresAt": "2026-06-24T10:48:46.726Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.127.129",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
