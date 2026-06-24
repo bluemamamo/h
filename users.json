@@ -34,8 +34,8 @@
       "username": "Yan",
       "password": "456789",
       "createdAt": "2026-06-24T23:44:16.852Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-24T23:45:42.426Z",
       "ipAddress": "10.28.187.2"
