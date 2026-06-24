@@ -1,3 +1,14 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "MavYT29",
+      "password": "qweqwe123",
+      "createdAt": "2026-06-24T17:57:31.363Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.127.129"
+    }
+  ]
 }
