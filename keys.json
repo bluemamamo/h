@@ -109,6 +109,16 @@
       "ip": "10.28.187.2",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "VUUX-A4W3-TEL4-YV1M",
+      "createdAt": "2026-06-24T02:25:13.803Z",
+      "expiresAt": "2026-06-25T02:25:13.803Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.207.129",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
