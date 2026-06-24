@@ -182,11 +182,15 @@
       "key": "9PPL-DAH6-RDH9-SIFL",
       "createdAt": "2026-06-24T08:28:49.558Z",
       "expiresAt": "2026-06-25T08:28:49.558Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.148.23",
       "referer": "direct",
-      "userAgent": "unknown"
+      "userAgent": "unknown",
+      "verifiedAt": "2026-06-24T08:30:19.399Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "10.28.187.2",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
     }
   ]
 }
