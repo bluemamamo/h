@@ -191,6 +191,16 @@
       "verifiedFrom": "linkvertise",
       "verifiedIP": "10.28.187.2",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "0H0M-MF0T-Y2FJ-17ZV",
+      "createdAt": "2026-06-24T08:38:49.077Z",
+      "expiresAt": "2026-06-25T08:38:49.077Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.240.42",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
