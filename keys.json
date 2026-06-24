@@ -1,3 +1,19 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "6SRY-DGNT-T5PP-ZNZ7",
+      "username": "kirohaxxx",
+      "createdAt": "2026-06-24T21:45:33.954Z",
+      "expiresAt": "2026-06-25T21:45:33.954Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.207.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
+    }
+  ]
 }
