@@ -119,6 +119,16 @@
       "ip": "10.30.207.129",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "CXPD-VJS8-BFOK-U2P8",
+      "createdAt": "2026-06-24T02:55:15.494Z",
+      "expiresAt": "2026-06-25T02:55:15.494Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.127.129",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
