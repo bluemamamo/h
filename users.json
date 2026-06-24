@@ -1,3 +1,14 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "kirohaxxx",
+      "password": "qweqwe123",
+      "createdAt": "2026-06-24T21:53:45.288Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.155.2"
+    }
+  ]
 }
