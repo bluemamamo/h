@@ -201,6 +201,16 @@
       "ip": "10.27.240.42",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "AW1A-5V9W-GZU7-IVWS",
+      "createdAt": "2026-06-24T09:17:13.344Z",
+      "expiresAt": "2026-06-25T09:17:13.344Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.168.29",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
