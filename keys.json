@@ -167,6 +167,16 @@
       "ip": "10.24.127.129",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "CVHU-UJOS-OB5Q-FNG9",
+      "createdAt": "2026-06-24T07:03:02.684Z",
+      "expiresAt": "2026-06-25T07:03:02.684Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.95.133",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
