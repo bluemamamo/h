@@ -226,11 +226,15 @@
       "key": "G5QT-5IGI-ALCO-3P3E",
       "createdAt": "2026-06-24T14:12:48.001Z",
       "expiresAt": "2026-06-25T14:12:48.001Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.192.3",
       "referer": "direct",
-      "userAgent": "unknown"
+      "userAgent": "unknown",
+      "verifiedAt": "2026-06-24T14:14:17.784Z",
+      "verifiedFrom": "linkvertise",
+      "verifiedIP": "10.25.148.23",
+      "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
