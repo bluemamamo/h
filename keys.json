@@ -1,3 +1,19 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "P4IA-WMVE-5AK3-XSSR",
+      "username": "adrian",
+      "createdAt": "2026-06-24T23:13:22.596Z",
+      "expiresAt": "2026-06-25T23:13:22.596Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.95.133",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
+    }
+  ]
 }
