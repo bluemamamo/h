@@ -147,6 +147,16 @@
       "verifiedFrom": "linkvertise",
       "verifiedIP": "10.29.95.133",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "key": "LEJC-YTST-J9V8-NU8P",
+      "createdAt": "2026-06-24T05:58:45.299Z",
+      "expiresAt": "2026-06-25T05:58:45.299Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.132.231",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
