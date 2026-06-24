@@ -133,6 +133,16 @@
       "verifiedFrom": "linkvertise",
       "verifiedIP": "10.29.95.133",
       "verifiedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    {
+      "key": "KOSM-WH5H-RQ7C-VPDW",
+      "createdAt": "2026-06-24T04:17:13.388Z",
+      "expiresAt": "2026-06-25T04:17:13.388Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.127.129",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
