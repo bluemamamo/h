@@ -1,3 +1,15 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "MavYT29",
+      "passwordHash": "7ff7966a54b313bd7cabd13992633f975da85edfc79a34ae5acbfce74fb195403c255a5f449ef02c1b925c9656c3187474c647114f23c16b4a300f7fa9757d27",
+      "passwordSalt": "4d591f0c24e633fd7b4aa88dda2cf741",
+      "createdAt": "2026-06-24T17:32:05.909Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.25.132.231"
+    }
+  ]
 }
