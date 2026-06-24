@@ -211,6 +211,16 @@
       "ip": "10.24.168.29",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "SBCB-8VYD-4B0R-FXZQ",
+      "createdAt": "2026-06-24T10:09:50.336Z",
+      "expiresAt": "2026-06-25T10:09:50.336Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.148.23",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
