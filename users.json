@@ -24,8 +24,8 @@
       "username": "althea",
       "password": "123456789",
       "createdAt": "2026-06-24T23:34:35.050Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-24T23:34:49.440Z",
       "ipAddress": "10.30.155.2"
