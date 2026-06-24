@@ -177,6 +177,16 @@
       "ip": "10.29.95.133",
       "referer": "direct",
       "userAgent": "unknown"
+    },
+    {
+      "key": "9PPL-DAH6-RDH9-SIFL",
+      "createdAt": "2026-06-24T08:28:49.558Z",
+      "expiresAt": "2026-06-25T08:28:49.558Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.148.23",
+      "referer": "direct",
+      "userAgent": "unknown"
     }
   ]
 }
