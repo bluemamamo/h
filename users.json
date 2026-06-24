@@ -19,6 +19,16 @@
       "activeKeys": 0,
       "lastLogin": "2026-06-24T23:29:27.285Z",
       "ipAddress": "10.25.148.23"
+    },
+    {
+      "username": "althea",
+      "password": "123456789",
+      "createdAt": "2026-06-24T23:34:35.050Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.28.187.2"
     }
   ]
 }
