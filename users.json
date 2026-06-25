@@ -74,8 +74,8 @@
       "username": "iloveoten",
       "password": "123123123123",
       "createdAt": "2026-06-25T05:43:47.187Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-25T05:43:57.937Z",
       "ipAddress": "10.25.148.23"
