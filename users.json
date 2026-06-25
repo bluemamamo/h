@@ -159,6 +159,16 @@
       "activeKeys": 0,
       "lastLogin": null,
       "ipAddress": "10.30.155.2"
+    },
+    {
+      "username": "dodoy",
+      "password": "dodoy123",
+      "createdAt": "2026-06-25T21:48:41.481Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.155.2"
     }
   ]
 }
