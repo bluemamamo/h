@@ -185,15 +185,15 @@
       "username": "lando",
       "createdAt": "2026-06-25T13:13:23.413Z",
       "expiresAt": "2026-06-26T13:13:23.413Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.29.95.133",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-25T13:13:40.871Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.24.127.129",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
