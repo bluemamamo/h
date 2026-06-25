@@ -99,6 +99,16 @@
       "activeKeys": 1,
       "lastLogin": "2026-06-25T04:50:45.081Z",
       "ipAddress": "10.27.240.42"
+    },
+    {
+      "username": "yanixyan",
+      "password": "adrianmahinay",
+      "createdAt": "2026-06-25T05:22:30.395Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.25.148.23"
     }
   ]
 }
