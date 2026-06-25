@@ -119,6 +119,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.28.187.2",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "EYDQ-F65E-H8E3-TEYS",
+      "username": "daryl",
+      "createdAt": "2026-06-25T08:05:09.747Z",
+      "expiresAt": "2026-06-26T08:05:09.747Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.148.23",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
