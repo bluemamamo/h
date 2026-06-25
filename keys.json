@@ -134,6 +134,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.29.242.130",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "MMVQ-PO80-M6C1-0H4G",
+      "username": "dodong",
+      "createdAt": "2026-06-25T09:16:34.980Z",
+      "expiresAt": "2026-06-26T09:16:34.980Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.28.187.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
