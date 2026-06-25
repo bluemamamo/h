@@ -79,6 +79,16 @@
       "activeKeys": 0,
       "lastLogin": "2026-06-25T03:01:38.026Z",
       "ipAddress": "10.25.148.23"
+    },
+    {
+      "username": "joswa",
+      "password": "0000000000",
+      "createdAt": "2026-06-25T03:05:18.364Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.28.187.2"
     }
   ]
 }
