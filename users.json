@@ -149,6 +149,16 @@
       "activeKeys": 0,
       "lastLogin": "2026-06-25T13:55:34.188Z",
       "ipAddress": "10.25.148.23"
+    },
+    {
+      "username": "DAROT",
+      "password": "darot123",
+      "createdAt": "2026-06-25T21:48:22.038Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.155.2"
     }
   ]
 }
