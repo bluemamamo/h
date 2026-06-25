@@ -59,6 +59,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.207.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "2SDC-ZHYF-IWAD-F81Z",
+      "username": "yanix",
+      "createdAt": "2026-06-25T01:41:48.823Z",
+      "expiresAt": "2026-06-26T01:41:48.823Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.207.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
