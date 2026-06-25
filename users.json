@@ -49,6 +49,16 @@
       "activeKeys": 1,
       "lastLogin": "2026-06-25T00:40:53.303Z",
       "ipAddress": "10.30.155.2"
+    },
+    {
+      "username": "yanix",
+      "password": "yanix12345",
+      "createdAt": "2026-06-25T01:41:33.948Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.28.187.2"
     }
   ]
 }
