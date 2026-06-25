@@ -1,21 +1,6 @@
 {
   "keys": [
     {
-      "key": "P4IA-WMVE-5AK3-XSSR",
-      "username": "adrian",
-      "createdAt": "2026-06-24T23:13:22.596Z",
-      "expiresAt": "2026-06-25T23:13:22.596Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "10.29.95.133",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
-    },
-    {
       "key": "BS7Q-SLSY-VD2K-0ARZ",
       "username": "althea",
       "createdAt": "2026-06-24T23:34:54.396Z",
@@ -23,21 +8,6 @@
       "status": "pending",
       "type": "1day",
       "ip": "10.29.95.133",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
-    },
-    {
-      "key": "GYOW-0LCV-R135-BVDT",
-      "username": "Yan",
-      "createdAt": "2026-06-24T23:45:47.855Z",
-      "expiresAt": "2026-06-25T23:45:47.855Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "10.27.240.42",
       "referer": "direct",
       "userAgent": "unknown",
       "verifiedAt": null,
@@ -61,21 +31,6 @@
       "verifiedUserAgent": "unknown"
     },
     {
-      "key": "2SDC-ZHYF-IWAD-F81Z",
-      "username": "yanix",
-      "createdAt": "2026-06-25T01:41:48.823Z",
-      "expiresAt": "2026-06-26T01:41:48.823Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "10.30.207.129",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
-    },
-    {
       "key": "WWLW-RIPZ-QO4A-2SO9",
       "username": "princemico",
       "createdAt": "2026-06-25T02:29:12.620Z",
@@ -83,21 +38,6 @@
       "status": "pending",
       "type": "1day",
       "ip": "10.31.79.129",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
-    },
-    {
-      "key": "BQRU-6916-POWZ-DSPQ",
-      "username": "yanyan",
-      "createdAt": "2026-06-25T02:57:46.659Z",
-      "expiresAt": "2026-06-26T02:57:46.659Z",
-      "status": "pending",
-      "type": "1day",
-      "ip": "10.29.109.134",
       "referer": "direct",
       "userAgent": "unknown",
       "verifiedAt": null,
