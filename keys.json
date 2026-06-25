@@ -209,6 +209,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.29.242.130",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "362P-9G71-7V6A-OURN",
+      "username": "rownith",
+      "createdAt": "2026-06-25T13:46:38.231Z",
+      "expiresAt": "2026-06-26T13:46:38.231Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.240.42",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
