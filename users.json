@@ -59,6 +59,16 @@
       "activeKeys": 0,
       "lastLogin": "2026-06-25T01:41:42.866Z",
       "ipAddress": "10.28.187.2"
+    },
+    {
+      "username": "princemico",
+      "password": "000000000",
+      "createdAt": "2026-06-25T02:28:50.294Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.31.79.129"
     }
   ]
 }
