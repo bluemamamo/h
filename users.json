@@ -89,6 +89,16 @@
       "activeKeys": 1,
       "lastLogin": "2026-06-25T07:47:08.124Z",
       "ipAddress": "10.25.181.92"
+    },
+    {
+      "username": "daryl",
+      "password": "daryl123",
+      "createdAt": "2026-06-25T08:04:56.538Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.127.129"
     }
   ]
 }
