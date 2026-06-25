@@ -119,6 +119,16 @@
       "activeKeys": 1,
       "lastLogin": "2026-06-25T12:22:53.665Z",
       "ipAddress": "10.29.126.131"
+    },
+    {
+      "username": "ANGELO",
+      "password": "ANGELO12345",
+      "createdAt": "2026-06-25T12:45:28.659Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.155.2"
     }
   ]
 }
