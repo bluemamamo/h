@@ -104,6 +104,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "CXGI-APO1-2SQO-2D3B",
+      "username": "joswa",
+      "createdAt": "2026-06-25T03:05:28.808Z",
+      "expiresAt": "2026-06-26T03:05:28.808Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.67.6",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
