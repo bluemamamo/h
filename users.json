@@ -124,8 +124,8 @@
       "username": "ANGELO",
       "password": "ANGELO12345",
       "createdAt": "2026-06-25T12:45:28.659Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-25T12:45:39.842Z",
       "ipAddress": "10.29.95.133"
