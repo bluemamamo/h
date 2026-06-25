@@ -215,15 +215,15 @@
       "username": "dodoy",
       "createdAt": "2026-06-25T21:48:58.282Z",
       "expiresAt": "2026-06-26T21:48:58.282Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.148.23",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-25T21:51:37.988Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.27.240.42",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
