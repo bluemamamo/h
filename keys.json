@@ -125,15 +125,15 @@
       "username": "daryl",
       "createdAt": "2026-06-25T08:05:09.747Z",
       "expiresAt": "2026-06-26T08:05:09.747Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.148.23",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-25T08:05:29.827Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.29.242.130",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
