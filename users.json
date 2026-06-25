@@ -11,16 +11,6 @@
       "ipAddress": "10.24.127.129"
     },
     {
-      "username": "adrian",
-      "password": "adrian123456789",
-      "createdAt": "2026-06-24T23:13:02.080Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
-      "activeKeys": 0,
-      "lastLogin": "2026-06-25T05:14:04.023Z",
-      "ipAddress": "10.28.187.2"
-    },
-    {
       "username": "althea",
       "password": "123456789",
       "createdAt": "2026-06-24T23:34:35.050Z",
@@ -29,16 +19,6 @@
       "activeKeys": 0,
       "lastLogin": "2026-06-24T23:34:49.440Z",
       "ipAddress": "10.30.155.2"
-    },
-    {
-      "username": "Yan",
-      "password": "456789",
-      "createdAt": "2026-06-24T23:44:16.852Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
-      "activeKeys": 0,
-      "lastLogin": "2026-06-24T23:45:42.426Z",
-      "ipAddress": "10.28.187.2"
     },
     {
       "username": "joms84",
@@ -51,16 +31,6 @@
       "ipAddress": "10.30.155.2"
     },
     {
-      "username": "yanix",
-      "password": "yanix12345",
-      "createdAt": "2026-06-25T01:41:33.948Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
-      "activeKeys": 0,
-      "lastLogin": "2026-06-25T02:57:17.524Z",
-      "ipAddress": "10.31.79.129"
-    },
-    {
       "username": "princemico",
       "password": "000000000",
       "createdAt": "2026-06-25T02:28:50.294Z",
@@ -69,16 +39,6 @@
       "activeKeys": 0,
       "lastLogin": "2026-06-25T02:37:08.500Z",
       "ipAddress": "10.25.148.23"
-    },
-    {
-      "username": "yanyan",
-      "password": "yanyan12345",
-      "createdAt": "2026-06-25T02:57:35.465Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
-      "activeKeys": 0,
-      "lastLogin": "2026-06-25T03:05:52.059Z",
-      "ipAddress": "10.29.109.134"
     },
     {
       "username": "joswa",
