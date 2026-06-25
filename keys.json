@@ -44,6 +44,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "KNNI-ZPA1-N17T-G3G4",
+      "username": "joms84",
+      "createdAt": "2026-06-25T00:41:06.557Z",
+      "expiresAt": "2026-06-26T00:41:06.557Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.28.187.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
