@@ -109,6 +109,16 @@
       "activeKeys": 1,
       "lastLogin": "2026-06-25T12:16:24.517Z",
       "ipAddress": "10.30.155.2"
+    },
+    {
+      "username": "akobudoy",
+      "password": "budoy12345",
+      "createdAt": "2026-06-25T12:22:44.516Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.207.129"
     }
   ]
 }
