@@ -134,8 +134,8 @@
       "username": "lando",
       "password": "lando12345",
       "createdAt": "2026-06-25T13:13:02.225Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-06-25T13:13:14.813Z",
       "ipAddress": "10.29.242.130"
