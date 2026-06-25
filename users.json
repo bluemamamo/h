@@ -54,8 +54,8 @@
       "username": "yanix",
       "password": "yanix12345",
       "createdAt": "2026-06-25T01:41:33.948Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-25T01:41:42.866Z",
       "ipAddress": "10.28.187.2"
