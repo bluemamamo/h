@@ -329,6 +329,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.207.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "JR04-KXXI-2LPK-2FWK",
+      "username": "KANG",
+      "createdAt": "2026-06-26T04:46:50.926Z",
+      "expiresAt": "2026-06-27T04:46:50.926Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.155.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
