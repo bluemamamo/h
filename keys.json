@@ -239,6 +239,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.28.187.2",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "JV2M-0B4U-Y0JF-3B4A",
+      "username": "ANGEL",
+      "createdAt": "2026-06-26T01:41:21.558Z",
+      "expiresAt": "2026-06-27T01:41:21.558Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.127.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
