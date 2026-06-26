@@ -224,8 +224,8 @@
       "username": "JAY",
       "password": "09061368403",
       "createdAt": "2026-06-26T03:58:26.111Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T03:58:32.459Z",
       "ipAddress": "10.30.207.129"
