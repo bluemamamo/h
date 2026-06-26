@@ -434,6 +434,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.29.109.134",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "2PRY-QN6H-ESEB-NSDT",
+      "username": "yang",
+      "createdAt": "2026-06-26T11:25:04.993Z",
+      "expiresAt": "2026-06-27T11:25:04.993Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.28.187.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
