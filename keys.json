@@ -404,6 +404,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.27.240.42",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "DNWY-Y8ZM-BAY9-8RTC",
+      "username": "Mari",
+      "createdAt": "2026-06-26T08:31:25.386Z",
+      "expiresAt": "2026-06-27T08:31:25.386Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.127.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
