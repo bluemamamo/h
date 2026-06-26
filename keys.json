@@ -479,6 +479,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "A5VU-S7S1-XCLM-1MXX",
+      "username": "jose",
+      "createdAt": "2026-06-26T12:53:37.114Z",
+      "expiresAt": "2026-06-27T12:53:37.114Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.127.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
