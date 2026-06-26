@@ -269,17 +269,6 @@
       "activeKeys": 1,
       "lastLogin": "2026-06-26T09:23:08.066Z",
       "ipAddress": "10.27.240.42"
-    },
-    {
-      "username": "kirohaxxx",
-      "password": "qweqwe112233",
-      "createdAt": "2026-06-26T09:52:23.429Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
-      "activeKeys": 0,
-      "lastLogin": "2026-06-26T09:52:25.896Z",
-      "ipAddress": "10.30.155.2",
-      "lastKeyGen": null
     }
   ]
 }
