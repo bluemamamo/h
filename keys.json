@@ -494,6 +494,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.27.240.42",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "TKKL-DG9Y-I44L-JJWS",
+      "username": "kalabaw",
+      "createdAt": "2026-06-26T16:51:00.555Z",
+      "expiresAt": "2026-06-27T16:51:00.555Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.148.23",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
