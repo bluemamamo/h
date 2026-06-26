@@ -269,6 +269,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.25.148.23",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "3Z97-EI69-A6L9-NJZ9",
+      "username": "JOROS",
+      "createdAt": "2026-06-26T03:03:23.058Z",
+      "expiresAt": "2026-06-27T03:03:23.058Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.240.42",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
