@@ -500,15 +500,15 @@
       "username": "kalabaw",
       "createdAt": "2026-06-26T16:51:00.555Z",
       "expiresAt": "2026-06-27T16:51:00.555Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.148.23",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-26T18:00:47.480Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.24.127.129",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
