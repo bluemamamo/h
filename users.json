@@ -269,6 +269,17 @@
       "activeKeys": 1,
       "lastLogin": "2026-06-26T09:23:08.066Z",
       "ipAddress": "10.27.240.42"
+    },
+    {
+      "username": "kenjiehaxxx",
+      "password": "qweqwe123",
+      "createdAt": "2026-06-26T09:53:15.323Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.155.2",
+      "lastKeyGen": null
     }
   ]
 }
