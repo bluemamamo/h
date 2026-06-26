@@ -305,15 +305,15 @@
       "username": "ANGELA",
       "createdAt": "2026-06-26T03:28:24.667Z",
       "expiresAt": "2026-06-27T03:28:24.667Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.30.155.2",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-26T03:28:41.636Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.30.155.2",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
