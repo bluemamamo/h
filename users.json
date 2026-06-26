@@ -297,12 +297,12 @@
       "username": "mine",
       "password": "mineheart",
       "createdAt": "2026-06-26T12:45:13.042Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T12:45:32.200Z",
       "ipAddress": "10.24.127.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-26T12:45:52.954Z"
     }
   ]
 }
