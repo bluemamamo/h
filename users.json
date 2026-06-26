@@ -274,8 +274,8 @@
       "username": "Mari",
       "password": "mari123",
       "createdAt": "2026-06-26T08:08:46.973Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T08:08:53.943Z",
       "ipAddress": "10.30.207.129"
