@@ -264,8 +264,8 @@
       "username": "JANG",
       "password": "GANG123",
       "createdAt": "2026-06-26T07:00:53.237Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T07:01:21.795Z",
       "ipAddress": "10.30.207.129"
