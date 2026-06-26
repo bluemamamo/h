@@ -292,6 +292,17 @@
       "lastLogin": "2026-06-26T12:42:11.646Z",
       "ipAddress": "10.27.240.42",
       "lastKeyGen": "2026-06-26T12:42:19.447Z"
+    },
+    {
+      "username": "mine",
+      "password": "mineheart",
+      "createdAt": "2026-06-26T12:45:13.042Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.127.129",
+      "lastKeyGen": null
     }
   ]
 }
