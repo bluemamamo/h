@@ -406,36 +406,6 @@
       "verifiedUserAgent": "unknown"
     },
     {
-      "key": "DNWY-Y8ZM-BAY9-8RTC",
-      "username": "Mari",
-      "createdAt": "2026-06-26T08:31:25.386Z",
-      "expiresAt": "2026-06-27T08:31:25.386Z",
-      "status": "active",
-      "type": "1day",
-      "ip": "10.24.127.129",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-06-26T08:32:04.437Z",
-      "verifiedFrom": "direct",
-      "verifiedIP": "10.27.240.42",
-      "verifiedUserAgent": "unknown"
-    },
-    {
-      "key": "CL9Z-A426-HE7Y-80T2",
-      "username": "Mari",
-      "createdAt": "2026-06-26T08:35:24.189Z",
-      "expiresAt": "2026-06-27T08:35:24.189Z",
-      "status": "active",
-      "type": "1day",
-      "ip": "10.28.187.2",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-06-26T08:36:35.350Z",
-      "verifiedFrom": "direct",
-      "verifiedIP": "10.27.240.42",
-      "verifiedUserAgent": "unknown"
-    },
-    {
       "key": "8EZA-WQ2D-2C2F-D08B",
       "username": "adrian",
       "createdAt": "2026-06-26T09:23:12.440Z",
