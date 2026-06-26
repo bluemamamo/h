@@ -344,6 +344,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.207.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "UQQX-PFVR-YGUU-A4A3",
+      "username": "cooooolld",
+      "createdAt": "2026-06-26T05:39:23.912Z",
+      "expiresAt": "2026-06-27T05:39:23.912Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.95.133",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
