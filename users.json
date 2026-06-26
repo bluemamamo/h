@@ -284,8 +284,8 @@
       "username": "adrian",
       "password": "mahinay",
       "createdAt": "2026-06-26T09:23:01.334Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T09:23:08.066Z",
       "ipAddress": "10.27.240.42"
