@@ -245,15 +245,15 @@
       "username": "JOROS",
       "createdAt": "2026-06-26T03:03:23.058Z",
       "expiresAt": "2026-06-27T03:03:23.058Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.240.42",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-26T09:49:04.268Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.27.240.42",
+      "verifiedUserAgent": "unknown"
     },
     {
       "key": "O67T-JBJ6-QQGC-OO3X",
