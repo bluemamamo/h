@@ -239,6 +239,16 @@
       "activeKeys": 1,
       "lastLogin": "2026-06-26T05:25:18.662Z",
       "ipAddress": "10.29.95.133"
+    },
+    {
+      "username": "cooooolld",
+      "password": "2007",
+      "createdAt": "2026-06-26T05:38:43.590Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.240.42"
     }
   ]
 }
