@@ -221,16 +221,6 @@
       "ipAddress": "10.25.148.23"
     },
     {
-      "username": "yanix",
-      "password": "yanix123",
-      "createdAt": "2026-06-26T05:43:27.042Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
-      "activeKeys": 1,
-      "lastLogin": "2026-06-26T05:43:34.069Z",
-      "ipAddress": "10.24.127.129"
-    },
-    {
       "username": "FANG",
       "password": "FANG123",
       "createdAt": "2026-06-26T06:37:27.213Z",
