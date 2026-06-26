@@ -274,12 +274,12 @@
       "username": "WAKNU",
       "password": "WAKNUTANDA",
       "createdAt": "2026-06-26T10:45:40.114Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T10:45:53.317Z",
       "ipAddress": "10.29.109.134",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-26T10:45:59.259Z"
     }
   ]
 }
