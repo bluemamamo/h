@@ -320,15 +320,15 @@
       "username": "JAY",
       "createdAt": "2026-06-26T03:58:37.594Z",
       "expiresAt": "2026-06-27T03:58:37.594Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.240.42",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-26T03:58:52.824Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.30.207.129",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
