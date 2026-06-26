@@ -419,21 +419,6 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.155.2",
       "verifiedUserAgent": "unknown"
-    },
-    {
-      "key": "SKMV-V7IN-TLQK-S79P",
-      "username": "kirohaxxx",
-      "createdAt": "2026-06-26T09:48:43.352Z",
-      "expiresAt": "2026-06-27T09:48:43.352Z",
-      "status": "active",
-      "type": "1day",
-      "ip": "10.30.155.2",
-      "referer": "direct",
-      "userAgent": "unknown",
-      "verifiedAt": "2026-06-26T09:49:01.010Z",
-      "verifiedFrom": "direct",
-      "verifiedIP": "10.30.155.2",
-      "verifiedUserAgent": "unknown"
     }
   ]
 }
