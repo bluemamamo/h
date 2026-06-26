@@ -303,6 +303,17 @@
       "lastLogin": "2026-06-26T12:45:32.200Z",
       "ipAddress": "10.24.127.129",
       "lastKeyGen": "2026-06-26T12:45:52.954Z"
+    },
+    {
+      "username": "jose",
+      "password": "mineheart",
+      "createdAt": "2026-06-26T12:53:04.555Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.155.2",
+      "lastKeyGen": null
     }
   ]
 }
