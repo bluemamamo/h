@@ -344,6 +344,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.24.127.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "9WFK-DNKL-70KA-9Z5O",
+      "username": "ming",
+      "createdAt": "2026-06-26T05:25:23.775Z",
+      "expiresAt": "2026-06-27T05:25:23.775Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.240.42",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
