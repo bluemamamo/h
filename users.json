@@ -1,17 +1,6 @@
 {
   "users": [
     {
-      "username": "kirohaxxx",
-      "password": "qweqwe112233",
-      "createdAt": "2026-06-24T21:53:45.288Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
-      "activeKeys": 1,
-      "lastLogin": "2026-06-26T09:45:56.850Z",
-      "ipAddress": "10.30.155.2",
-      "lastKeyGen": "2026-06-26T09:48:43.352Z"
-    },
-    {
       "username": "joms84",
       "password": "112515sonier",
       "createdAt": "2026-06-25T00:40:45.691Z",
