@@ -174,8 +174,8 @@
       "username": "ROLAND",
       "password": "09977989351",
       "createdAt": "2026-06-26T01:33:59.203Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T01:34:09.776Z",
       "ipAddress": "10.24.127.129"
