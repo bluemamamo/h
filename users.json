@@ -285,12 +285,12 @@
       "username": "yang",
       "password": "hang123",
       "createdAt": "2026-06-26T11:24:49.193Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T11:24:59.587Z",
       "ipAddress": "10.28.187.2",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-26T11:25:04.993Z"
     }
   ]
 }
