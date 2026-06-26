@@ -254,8 +254,8 @@
       "username": "FANG",
       "password": "FANG123",
       "createdAt": "2026-06-26T06:37:27.213Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-26T06:37:39.187Z",
       "ipAddress": "10.29.109.134"
