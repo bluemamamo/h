@@ -314,6 +314,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.155.2",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "MGFC-CRMF-BTVM-DZLP",
+      "username": "JAY",
+      "createdAt": "2026-06-26T03:58:37.594Z",
+      "expiresAt": "2026-06-27T03:58:37.594Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.240.42",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
