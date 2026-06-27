@@ -448,6 +448,17 @@
       "lastLogin": null,
       "ipAddress": "10.28.187.2",
       "lastKeyGen": null
+    },
+    {
+      "username": "pedrinn231",
+      "password": "123456",
+      "createdAt": "2026-06-27T17:05:48.649Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.25.84.4",
+      "lastKeyGen": null
     }
   ]
 }
