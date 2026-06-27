@@ -310,12 +310,12 @@
       "username": "jose",
       "password": "mineheart",
       "createdAt": "2026-06-26T12:53:04.555Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-06-27T13:14:27.043Z",
       "ipAddress": "10.28.187.2",
-      "lastKeyGen": "2026-06-26T12:53:37.114Z"
+      "lastKeyGen": "2026-06-27T13:14:39.600Z"
     },
     {
       "username": "kadong",
