@@ -360,17 +360,6 @@
       "lastLogin": "2026-06-27T02:34:37.962Z",
       "ipAddress": "10.29.109.134",
       "lastKeyGen": null
-    },
-    {
-      "username": "Kenjieph029",
-      "password": "qweqwe123",
-      "createdAt": "2026-06-27T01:54:24.968Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
-      "activeKeys": 0,
-      "lastLogin": "2026-06-27T02:10:19.707Z",
-      "ipAddress": "10.28.187.2",
-      "lastKeyGen": null
     }
   ]
 }
