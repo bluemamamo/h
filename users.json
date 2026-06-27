@@ -299,12 +299,12 @@
       "username": "mine",
       "password": "mineheart",
       "createdAt": "2026-06-26T12:45:13.042Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-06-27T13:22:30.357Z",
       "ipAddress": "10.24.142.3",
-      "lastKeyGen": "2026-06-26T12:45:52.954Z"
+      "lastKeyGen": "2026-06-27T13:22:35.013Z"
     },
     {
       "username": "jose",
