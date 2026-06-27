@@ -509,6 +509,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.24.127.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "CTCM-UKQR-TYK9-OLB0",
+      "username": "kadong",
+      "createdAt": "2026-06-27T00:04:51.285Z",
+      "expiresAt": "2026-06-28T00:04:51.285Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.155.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
