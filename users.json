@@ -415,6 +415,17 @@
       "lastLogin": "2026-06-27T13:21:10.830Z",
       "ipAddress": "10.25.148.23",
       "lastKeyGen": "2026-06-27T13:21:19.767Z"
+    },
+    {
+      "username": "clarkpaasa",
+      "password": "mineheart",
+      "createdAt": "2026-06-27T13:23:15.412Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.142.3",
+      "lastKeyGen": null
     }
   ]
 }
