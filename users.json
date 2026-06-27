@@ -437,6 +437,17 @@
       "lastLogin": null,
       "ipAddress": "10.24.198.138",
       "lastKeyGen": null
+    },
+    {
+      "username": "yung2008",
+      "password": "paterno12345",
+      "createdAt": "2026-06-27T13:44:52.345Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.127.129",
+      "lastKeyGen": null
     }
   ]
 }
