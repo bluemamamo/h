@@ -689,6 +689,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "SM2L-F8CX-EE6C-3V3M",
+      "username": "loryu2",
+      "createdAt": "2026-06-27T14:14:34.757Z",
+      "expiresAt": "2026-06-28T14:14:34.757Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.148.23",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
