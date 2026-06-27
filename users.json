@@ -453,12 +453,12 @@
       "username": "pedrinn231",
       "password": "123456",
       "createdAt": "2026-06-27T17:05:48.649Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-27T17:06:05.608Z",
       "ipAddress": "10.28.187.2",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-27T17:06:16.725Z"
     }
   ]
 }
