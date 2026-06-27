@@ -459,6 +459,17 @@
       "lastLogin": "2026-06-27T17:11:57.915Z",
       "ipAddress": "10.29.95.133",
       "lastKeyGen": "2026-06-27T17:06:16.725Z"
+    },
+    {
+      "username": "Pdrxx72",
+      "password": "pedro74",
+      "createdAt": "2026-06-27T17:12:17.730Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.109.134",
+      "lastKeyGen": null
     }
   ]
 }
