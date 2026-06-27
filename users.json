@@ -349,6 +349,17 @@
       "lastLogin": "2026-06-27T04:00:40.976Z",
       "ipAddress": "10.29.199.4",
       "lastKeyGen": "2026-06-27T01:05:23.386Z"
+    },
+    {
+      "username": "kirohaxxx",
+      "password": "qweqwe112233",
+      "createdAt": "2026-06-27T04:10:02.338Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.25.148.23",
+      "lastKeyGen": null
     }
   ]
 }
