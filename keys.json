@@ -749,6 +749,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "T6U0-4WDY-WG5Q-FOF3",
+      "username": "kalabaw",
+      "createdAt": "2026-06-27T17:37:55.532Z",
+      "expiresAt": "2026-06-28T17:37:55.532Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.155.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
