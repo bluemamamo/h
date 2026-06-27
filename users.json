@@ -320,12 +320,12 @@
       "username": "kadong",
       "password": "kadong",
       "createdAt": "2026-06-27T00:04:40.673Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-27T00:04:46.871Z",
       "ipAddress": "10.30.155.2",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-27T00:04:51.285Z"
     }
   ]
 }
