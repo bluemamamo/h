@@ -461,17 +461,6 @@
       "lastKeyGen": "2026-06-27T13:57:16.895Z"
     },
     {
-      "username": "loryu1",
-      "password": "loryu1",
-      "createdAt": "2026-06-27T14:10:23.808Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
-      "activeKeys": 0,
-      "lastLogin": null,
-      "ipAddress": "10.25.148.23",
-      "lastKeyGen": null
-    },
-    {
       "username": "loryu2",
       "password": "loryu2",
       "createdAt": "2026-06-27T14:13:59.290Z",
