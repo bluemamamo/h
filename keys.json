@@ -539,6 +539,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.29.95.133",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "6OEM-M6H0-NG8P-DRYV",
+      "username": "GEBAN",
+      "createdAt": "2026-06-27T01:05:23.386Z",
+      "expiresAt": "2026-06-28T01:05:23.386Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.29.109.134",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
