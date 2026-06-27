@@ -398,12 +398,12 @@
       "username": "oten",
       "password": "mineheart",
       "createdAt": "2026-06-27T13:18:49.449Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-27T13:18:55.682Z",
       "ipAddress": "10.24.142.3",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-27T13:19:02.457Z"
     }
   ]
 }
