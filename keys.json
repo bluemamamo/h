@@ -644,6 +644,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "17C5-EN1X-X4MC-6ATJ",
+      "username": "mine",
+      "createdAt": "2026-06-27T13:22:35.013Z",
+      "expiresAt": "2026-06-28T13:22:35.013Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.142.3",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
