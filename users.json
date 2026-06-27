@@ -404,6 +404,17 @@
       "lastLogin": "2026-06-27T13:18:55.682Z",
       "ipAddress": "10.24.142.3",
       "lastKeyGen": "2026-06-27T13:19:02.457Z"
+    },
+    {
+      "username": "carlobayot",
+      "password": "mineheart",
+      "createdAt": "2026-06-27T13:21:04.256Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.142.3",
+      "lastKeyGen": null
     }
   ]
 }
