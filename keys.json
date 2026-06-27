@@ -590,15 +590,15 @@
       "username": "DANG",
       "createdAt": "2026-06-27T07:53:36.660Z",
       "expiresAt": "2026-06-28T07:53:36.660Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.24.218.31",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-27T07:53:54.740Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.24.218.31",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
