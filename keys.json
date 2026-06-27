@@ -245,7 +245,7 @@
       "username": "JOROS",
       "createdAt": "2026-06-26T03:03:23.058Z",
       "expiresAt": "2026-06-27T03:03:23.058Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.240.42",
       "referer": "direct",
