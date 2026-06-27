@@ -500,7 +500,7 @@
       "username": "kalabaw",
       "createdAt": "2026-06-26T16:51:00.555Z",
       "expiresAt": "2026-06-27T16:51:00.555Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.25.148.23",
       "referer": "direct",
