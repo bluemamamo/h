@@ -764,6 +764,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.207.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "PUF2-0I9N-RSI0-RHAR",
+      "username": "pedrinn231",
+      "createdAt": "2026-06-27T18:29:55.861Z",
+      "expiresAt": "2026-06-28T18:29:55.861Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.28.187.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
