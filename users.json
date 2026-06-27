@@ -406,17 +406,6 @@
       "lastKeyGen": "2026-06-27T13:23:29.502Z"
     },
     {
-      "username": "YUNG",
-      "password": "paterno12345",
-      "createdAt": "2026-06-27T13:44:14.096Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
-      "activeKeys": 0,
-      "lastLogin": "2026-06-27T13:45:27.410Z",
-      "ipAddress": "10.25.84.4",
-      "lastKeyGen": null
-    },
-    {
       "username": "yung123",
       "password": "paterno12345",
       "createdAt": "2026-06-27T13:56:26.011Z",
