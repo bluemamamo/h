@@ -584,6 +584,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.25.84.4",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "KYZO-554X-27WQ-AYBA",
+      "username": "DANG",
+      "createdAt": "2026-06-27T07:53:36.660Z",
+      "expiresAt": "2026-06-28T07:53:36.660Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.218.31",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
