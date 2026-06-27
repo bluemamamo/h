@@ -725,15 +725,15 @@
       "username": "pedrinn231",
       "createdAt": "2026-06-27T17:06:16.725Z",
       "expiresAt": "2026-06-28T17:06:16.725Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.84.4",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-27T17:15:06.094Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.30.207.129",
+      "verifiedUserAgent": "unknown"
     },
     {
       "key": "C8Y1-I4G1-L7WC-F4AH",
