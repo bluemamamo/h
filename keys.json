@@ -200,7 +200,7 @@
       "username": "ROLAND",
       "createdAt": "2026-06-26T01:34:23.414Z",
       "expiresAt": "2026-06-27T01:34:23.414Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.29.95.133",
       "referer": "direct",
