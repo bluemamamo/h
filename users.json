@@ -337,6 +337,17 @@
       "lastLogin": "2026-06-27T00:24:16.296Z",
       "ipAddress": "10.29.95.133",
       "lastKeyGen": "2026-06-27T00:24:25.100Z"
+    },
+    {
+      "username": "GEBAN",
+      "password": "GEBAN",
+      "createdAt": "2026-06-27T01:05:12.220Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.95.133",
+      "lastKeyGen": null
     }
   ]
 }
