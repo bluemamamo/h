@@ -569,6 +569,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.155.2",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "SUX8-PHQL-6ZKT-XM2T",
+      "username": "dave",
+      "createdAt": "2026-06-27T07:44:31.183Z",
+      "expiresAt": "2026-06-28T07:44:31.183Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.127.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
