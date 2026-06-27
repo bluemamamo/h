@@ -331,12 +331,12 @@
       "username": "renz",
       "password": "renz",
       "createdAt": "2026-06-27T00:24:00.161Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-27T00:24:16.296Z",
       "ipAddress": "10.29.95.133",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-27T00:24:25.100Z"
     }
   ]
 }
