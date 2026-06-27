@@ -470,7 +470,7 @@
       "username": "mine",
       "createdAt": "2026-06-26T12:45:52.954Z",
       "expiresAt": "2026-06-27T12:45:52.954Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.24.127.129",
       "referer": "direct",
