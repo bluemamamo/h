@@ -376,12 +376,12 @@
       "username": "DANG",
       "password": "ANGEL123",
       "createdAt": "2026-06-27T07:53:16.390Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-27T07:53:30.708Z",
       "ipAddress": "10.24.218.31",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-27T07:53:36.660Z"
     }
   ]
 }
