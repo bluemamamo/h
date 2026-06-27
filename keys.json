@@ -395,7 +395,7 @@
       "username": "Mari",
       "createdAt": "2026-06-26T08:09:02.228Z",
       "expiresAt": "2026-06-27T08:09:02.228Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.30.155.2",
       "referer": "direct",
