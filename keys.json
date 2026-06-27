@@ -599,6 +599,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.24.218.31",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "RYMA-JUJS-5IFJ-7LTV",
+      "username": "jose",
+      "createdAt": "2026-06-27T13:14:39.600Z",
+      "expiresAt": "2026-06-28T13:14:39.600Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.84.4",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
