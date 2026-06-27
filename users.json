@@ -326,6 +326,17 @@
       "lastLogin": "2026-06-27T00:04:46.871Z",
       "ipAddress": "10.30.155.2",
       "lastKeyGen": "2026-06-27T00:04:51.285Z"
+    },
+    {
+      "username": "renz",
+      "password": "renz",
+      "createdAt": "2026-06-27T00:24:00.161Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.95.133",
+      "lastKeyGen": null
     }
   ]
 }
