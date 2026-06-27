@@ -410,7 +410,7 @@
       "username": "adrian",
       "createdAt": "2026-06-26T09:23:12.440Z",
       "expiresAt": "2026-06-27T09:23:12.440Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.30.207.129",
       "referer": "direct",
