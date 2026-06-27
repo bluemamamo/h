@@ -481,6 +481,17 @@
       "lastLogin": "2026-06-27T14:14:23.544Z",
       "ipAddress": "10.24.127.129",
       "lastKeyGen": "2026-06-27T14:14:34.757Z"
+    },
+    {
+      "username": "savannacutie",
+      "password": "bjacera11",
+      "createdAt": "2026-06-27T14:26:35.039Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.127.129",
+      "lastKeyGen": null
     }
   ]
 }
