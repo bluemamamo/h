@@ -515,15 +515,15 @@
       "username": "kadong",
       "createdAt": "2026-06-27T00:04:51.285Z",
       "expiresAt": "2026-06-28T00:04:51.285Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.30.155.2",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-27T00:05:28.534Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.28.187.2",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
