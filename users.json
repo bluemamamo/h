@@ -470,6 +470,17 @@
       "lastLogin": null,
       "ipAddress": "10.25.148.23",
       "lastKeyGen": null
+    },
+    {
+      "username": "loryu2",
+      "password": "loryu2",
+      "createdAt": "2026-06-27T14:13:59.290Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.25.148.23",
+      "lastKeyGen": null
     }
   ]
 }
