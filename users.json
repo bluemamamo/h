@@ -497,12 +497,12 @@
       "username": "savannacutie1",
       "password": "bjacera11",
       "createdAt": "2026-06-27T14:26:49.103Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-27T14:26:53.861Z",
       "ipAddress": "10.24.218.31",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-27T14:27:19.887Z"
     }
   ]
 }
