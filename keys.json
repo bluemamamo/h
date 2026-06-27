@@ -674,6 +674,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.24.127.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "65K0-UROX-WF6X-PEFN",
+      "username": "yung123",
+      "createdAt": "2026-06-27T13:57:16.895Z",
+      "expiresAt": "2026-06-28T13:57:16.895Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.24.127.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
