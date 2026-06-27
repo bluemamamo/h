@@ -393,6 +393,17 @@
       "lastLogin": null,
       "ipAddress": "10.24.142.3",
       "lastKeyGen": null
+    },
+    {
+      "username": "oten",
+      "password": "mineheart",
+      "createdAt": "2026-06-27T13:18:49.449Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.142.3",
+      "lastKeyGen": null
     }
   ]
 }
