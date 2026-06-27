@@ -440,7 +440,7 @@
       "username": "yang",
       "createdAt": "2026-06-26T11:25:04.993Z",
       "expiresAt": "2026-06-27T11:25:04.993Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.28.187.2",
       "referer": "direct",
