@@ -734,6 +734,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "C8Y1-I4G1-L7WC-F4AH",
+      "username": "Pdrxx72",
+      "createdAt": "2026-06-27T17:12:36.995Z",
+      "expiresAt": "2026-06-28T17:12:36.995Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.84.4",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
