@@ -409,12 +409,12 @@
       "username": "carlobayot",
       "password": "mineheart",
       "createdAt": "2026-06-27T13:21:04.256Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-27T13:21:10.830Z",
       "ipAddress": "10.25.148.23",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-27T13:21:19.767Z"
     }
   ]
 }
