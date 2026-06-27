@@ -365,12 +365,12 @@
       "username": "dave",
       "password": "dave",
       "createdAt": "2026-06-27T07:44:18.198Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-27T07:44:24.200Z",
       "ipAddress": "10.24.127.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-27T07:44:31.183Z"
     }
   ]
 }
