@@ -382,6 +382,17 @@
       "lastLogin": "2026-06-27T10:36:43.524Z",
       "ipAddress": "10.24.127.129",
       "lastKeyGen": "2026-06-27T07:53:36.660Z"
+    },
+    {
+      "username": "archer",
+      "password": "mineheart",
+      "createdAt": "2026-06-27T13:18:39.026Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.142.3",
+      "lastKeyGen": null
     }
   ]
 }
