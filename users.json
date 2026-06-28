@@ -531,12 +531,12 @@
       "username": "diding",
       "password": "diding",
       "createdAt": "2026-06-28T04:01:01.074Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-28T04:01:08.910Z",
       "ipAddress": "10.29.95.133",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-28T04:01:14.918Z"
     }
   ]
 }
