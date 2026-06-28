@@ -530,7 +530,7 @@
       "username": "renz",
       "createdAt": "2026-06-27T00:24:25.100Z",
       "expiresAt": "2026-06-28T00:24:25.100Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.29.109.134",
       "referer": "direct",
