@@ -537,6 +537,17 @@
       "lastLogin": "2026-06-28T04:01:08.910Z",
       "ipAddress": "10.29.95.133",
       "lastKeyGen": "2026-06-28T04:01:14.918Z"
+    },
+    {
+      "username": "calica",
+      "password": "1021",
+      "createdAt": "2026-06-28T05:03:06.612Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.25.148.23",
+      "lastKeyGen": null
     }
   ]
 }
