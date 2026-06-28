@@ -839,6 +839,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.207.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "HMDW-W2H5-7GDA-PVAB",
+      "username": "jays",
+      "createdAt": "2026-06-28T03:10:42.758Z",
+      "expiresAt": "2026-06-29T03:10:42.758Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.155.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
