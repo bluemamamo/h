@@ -481,6 +481,17 @@
       "lastLogin": "2026-06-27T19:13:38.136Z",
       "ipAddress": "10.25.84.4",
       "lastKeyGen": null
+    },
+    {
+      "username": "bayot",
+      "password": "bayot",
+      "createdAt": "2026-06-28T00:11:34.522Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.29.109.134",
+      "lastKeyGen": null
     }
   ]
 }
