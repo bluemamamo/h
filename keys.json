@@ -710,15 +710,15 @@
       "username": "savannacutie1",
       "createdAt": "2026-06-27T14:27:19.887Z",
       "expiresAt": "2026-06-28T14:27:19.887Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.148.23",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-28T01:27:35.495Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.25.148.23",
+      "verifiedUserAgent": "unknown"
     },
     {
       "key": "L2V4-M4KK-TAPR-17ST",
