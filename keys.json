@@ -980,15 +980,15 @@
       "username": "EXIEN",
       "createdAt": "2026-06-28T22:59:38.704Z",
       "expiresAt": "2026-06-29T22:59:38.704Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.29.109.134",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-28T22:59:56.955Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.29.109.134",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
