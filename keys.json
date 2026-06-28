@@ -815,15 +815,15 @@
       "username": "YANTR",
       "createdAt": "2026-06-28T01:27:16.404Z",
       "expiresAt": "2026-06-29T01:27:16.404Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.28.187.2",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-28T01:27:30.629Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.30.207.129",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
