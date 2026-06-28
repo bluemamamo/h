@@ -899,6 +899,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.30.155.2",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "31XH-S7WW-FSPJ-J1XX",
+      "username": "calica",
+      "createdAt": "2026-06-28T05:13:59.515Z",
+      "expiresAt": "2026-06-29T05:13:59.515Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.207.129",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
