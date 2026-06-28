@@ -136,11 +136,12 @@
       "username": "ROLAND",
       "password": "09977989351",
       "createdAt": "2026-06-26T01:33:59.203Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-06-28T03:09:33.021Z",
-      "ipAddress": "10.30.207.129"
+      "ipAddress": "10.30.207.129",
+      "lastKeyGen": "2026-06-28T03:09:40.303Z"
     },
     {
       "username": "ANGEL",
