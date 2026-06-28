@@ -370,12 +370,12 @@
       "username": "kirohaxxx",
       "password": "qweqwe112233",
       "createdAt": "2026-06-27T18:54:39.890Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-28T19:00:13.485Z",
       "ipAddress": "10.24.127.129",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-28T19:00:20.746Z"
     },
     {
       "username": "bayot",
