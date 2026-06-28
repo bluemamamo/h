@@ -944,6 +944,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.24.127.129",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "ZY48-BC52-KNIC-Z3O8",
+      "username": "clarkpaasa",
+      "createdAt": "2026-06-28T13:53:40.912Z",
+      "expiresAt": "2026-06-29T13:53:40.912Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.84.4",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
