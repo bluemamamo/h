@@ -515,6 +515,17 @@
       "lastLogin": "2026-06-28T03:10:36.651Z",
       "ipAddress": "10.25.148.23",
       "lastKeyGen": "2026-06-28T03:10:42.758Z"
+    },
+    {
+      "username": "tabs",
+      "password": "123456789",
+      "createdAt": "2026-06-28T03:12:45.246Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.25.84.4",
+      "lastKeyGen": null
     }
   ]
 }
