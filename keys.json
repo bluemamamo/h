@@ -929,6 +929,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.29.95.133",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "T8EC-RVCP-3W6C-4YZ4",
+      "username": "BONDOY",
+      "createdAt": "2026-06-28T12:01:55.931Z",
+      "expiresAt": "2026-06-29T12:01:55.931Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.176.84",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
