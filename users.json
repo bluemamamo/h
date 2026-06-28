@@ -548,6 +548,17 @@
       "lastLogin": "2026-06-28T05:11:45.231Z",
       "ipAddress": "10.30.207.129",
       "lastKeyGen": "2026-06-28T05:13:59.515Z"
+    },
+    {
+      "username": "Gianbotoy",
+      "password": "12345678910",
+      "createdAt": "2026-06-28T10:21:30.862Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.30.207.129",
+      "lastKeyGen": null
     }
   ]
 }
