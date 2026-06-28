@@ -914,6 +914,21 @@
       "verifiedFrom": null,
       "verifiedIP": null,
       "verifiedUserAgent": null
+    },
+    {
+      "key": "KLUK-MAHG-42K9-6MER",
+      "username": "Gianbotoy",
+      "createdAt": "2026-06-28T10:21:55.187Z",
+      "expiresAt": "2026-06-29T10:21:55.187Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.25.148.23",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
