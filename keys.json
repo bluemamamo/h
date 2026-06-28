@@ -605,15 +605,15 @@
       "username": "jose",
       "createdAt": "2026-06-27T13:14:39.600Z",
       "expiresAt": "2026-06-28T13:14:39.600Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.84.4",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-28T03:12:15.640Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.25.84.4",
+      "verifiedUserAgent": "unknown"
     },
     {
       "key": "M7S7-0416-7OVL-UCAL",
