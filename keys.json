@@ -740,15 +740,15 @@
       "username": "Pdrxx72",
       "createdAt": "2026-06-27T17:12:36.995Z",
       "expiresAt": "2026-06-28T17:12:36.995Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.84.4",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-28T03:11:40.983Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.25.84.4",
+      "verifiedUserAgent": "unknown"
     },
     {
       "key": "T6U0-4WDY-WG5Q-FOF3",
