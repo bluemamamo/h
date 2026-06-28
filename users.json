@@ -511,7 +511,7 @@
       "createdAt": "2026-06-28T03:10:29.095Z",
       "keysGenerated": 1,
       "totalKeys": 1,
-      "activeKeys": 0,
+      "activeKeys": 1,
       "lastLogin": "2026-06-28T03:10:36.651Z",
       "ipAddress": "10.25.148.23",
       "lastKeyGen": "2026-06-28T03:10:42.758Z"
