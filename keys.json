@@ -950,15 +950,15 @@
       "username": "clarkpaasa",
       "createdAt": "2026-06-28T13:53:40.912Z",
       "expiresAt": "2026-06-29T13:53:40.912Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.25.84.4",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-28T13:56:59.636Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.30.176.84",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
