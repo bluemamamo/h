@@ -520,12 +520,12 @@
       "username": "tabs",
       "password": "123456789",
       "createdAt": "2026-06-28T03:12:45.246Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-28T03:12:57.299Z",
       "ipAddress": "10.30.155.2",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-28T03:13:08.106Z"
     }
   ]
 }
