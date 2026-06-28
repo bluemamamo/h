@@ -590,7 +590,7 @@
       "username": "DANG",
       "createdAt": "2026-06-27T07:53:36.660Z",
       "expiresAt": "2026-06-28T07:53:36.660Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.24.218.31",
       "referer": "direct",
