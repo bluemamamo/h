@@ -469,12 +469,12 @@
       "username": "EXIEN",
       "password": "EXIEN",
       "createdAt": "2026-06-28T22:59:26.687Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-28T22:59:33.202Z",
       "ipAddress": "10.29.109.134",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-28T22:59:38.704Z"
     }
   ]
 }
