@@ -605,7 +605,7 @@
       "username": "jose",
       "createdAt": "2026-06-27T13:14:39.600Z",
       "expiresAt": "2026-06-28T13:14:39.600Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.25.84.4",
       "referer": "direct",
