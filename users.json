@@ -502,12 +502,12 @@
       "username": "lito",
       "password": "lito",
       "createdAt": "2026-06-29T09:40:06.956Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-29T09:40:13.669Z",
       "ipAddress": "10.28.187.2",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-29T09:40:27.811Z"
     }
   ]
 }
