@@ -6,5 +6,13 @@
     "timestamp": "2026-06-29T19:26:36.400Z",
     "paymentCommand": "",
     "paymentImage": null
+  },
+  {
+    "id": 1782761225562,
+    "customerName": "ken",
+    "message": "/payment",
+    "timestamp": "2026-06-29T19:27:05.562Z",
+    "paymentCommand": "/payment",
+    "paymentImage": null
   }
 ]
