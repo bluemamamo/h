@@ -497,6 +497,17 @@
       "lastLogin": "2026-06-29T08:57:03.990Z",
       "ipAddress": "10.30.155.2",
       "lastKeyGen": "2026-06-29T08:57:29.486Z"
+    },
+    {
+      "username": "lito",
+      "password": "lito",
+      "createdAt": "2026-06-29T09:40:06.956Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.24.127.129",
+      "lastKeyGen": null
     }
   ]
 }
