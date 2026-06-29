@@ -1010,15 +1010,15 @@
       "username": "LANG",
       "createdAt": "2026-06-29T01:07:23.727Z",
       "expiresAt": "2026-06-30T01:07:23.727Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.24.127.129",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-29T01:07:41.036Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.24.127.129",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
