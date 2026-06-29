@@ -1085,15 +1085,15 @@
       "username": "lito",
       "createdAt": "2026-06-29T09:40:27.811Z",
       "expiresAt": "2026-06-30T09:40:27.811Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.24.127.129",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-29T09:40:59.177Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.28.187.2",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
