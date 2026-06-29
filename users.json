@@ -96,12 +96,12 @@
       "username": "ROLAND",
       "password": "09977989351",
       "createdAt": "2026-06-26T01:33:59.203Z",
-      "keysGenerated": 2,
-      "totalKeys": 2,
+      "keysGenerated": 3,
+      "totalKeys": 3,
       "activeKeys": 2,
       "lastLogin": "2026-06-29T05:24:25.116Z",
       "ipAddress": "10.30.207.129",
-      "lastKeyGen": "2026-06-28T03:09:40.303Z"
+      "lastKeyGen": "2026-06-29T05:26:50.565Z"
     },
     {
       "username": "ANGEL",
