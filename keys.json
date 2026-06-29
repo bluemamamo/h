@@ -905,7 +905,7 @@
       "username": "calica",
       "createdAt": "2026-06-28T05:13:59.515Z",
       "expiresAt": "2026-06-29T05:13:59.515Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.30.207.129",
       "referer": "direct",
