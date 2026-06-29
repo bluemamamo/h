@@ -491,12 +491,12 @@
       "username": "tiboy",
       "password": "giatay",
       "createdAt": "2026-06-29T08:56:34.428Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-29T08:57:03.990Z",
       "ipAddress": "10.30.155.2",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-29T08:57:29.486Z"
     }
   ]
 }
