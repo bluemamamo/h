@@ -530,6 +530,17 @@
       "lastLogin": "2026-06-30T06:38:32.371Z",
       "ipAddress": "10.26.75.40",
       "lastKeyGen": "2026-06-30T06:38:36.886Z"
+    },
+    {
+      "username": "amang23",
+      "password": "1234",
+      "createdAt": "2026-06-30T14:15:12.087Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.31.72.131",
+      "lastKeyGen": null
     }
   ]
 }
