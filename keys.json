@@ -1154,6 +1154,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.31.72.131",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "7F4P-DI1O-0JK6-LVAU",
+      "username": "joms84",
+      "createdAt": "2026-06-30T12:28:43.583Z",
+      "expiresAt": "2026-07-01T12:28:43.583Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.31.72.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
