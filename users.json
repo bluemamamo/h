@@ -524,12 +524,12 @@
       "username": "YANZU",
       "password": "YANZU",
       "createdAt": "2026-06-30T06:38:27.383Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-30T06:38:32.371Z",
       "ipAddress": "10.26.75.40",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-30T06:38:36.886Z"
     }
   ]
 }
