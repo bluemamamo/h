@@ -1115,15 +1115,15 @@
       "username": "coll",
       "createdAt": "2026-06-30T04:20:30.040Z",
       "expiresAt": "2026-07-01T04:20:30.040Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.43.242",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-30T04:20:55.337Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.27.43.242",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
