@@ -1109,6 +1109,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.29.50.143",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "VKM4-METT-OYUU-X8CM",
+      "username": "coll",
+      "createdAt": "2026-06-30T04:20:30.040Z",
+      "expiresAt": "2026-07-01T04:20:30.040Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.43.242",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
