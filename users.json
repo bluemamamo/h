@@ -541,6 +541,17 @@
       "lastLogin": "2026-06-30T14:15:20.511Z",
       "ipAddress": "10.27.43.242",
       "lastKeyGen": "2026-06-30T14:15:28.896Z"
+    },
+    {
+      "username": "gaming123",
+      "password": "qweqwe123",
+      "createdAt": "2026-06-30T20:30:59.580Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.181.2",
+      "lastKeyGen": null
     }
   ]
 }
