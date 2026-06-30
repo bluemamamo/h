@@ -1169,6 +1169,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.27.10.4",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "9AJZ-OK4S-Q9B6-K94Q",
+      "username": "amang23",
+      "createdAt": "2026-06-30T14:15:28.896Z",
+      "expiresAt": "2026-07-01T14:15:28.896Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.23.132",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
