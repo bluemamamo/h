@@ -513,12 +513,12 @@
       "username": "coll",
       "password": "coll",
       "createdAt": "2026-06-30T04:20:14.403Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-30T04:20:21.411Z",
       "ipAddress": "10.27.10.4",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-30T04:20:30.040Z"
     }
   ]
 }
