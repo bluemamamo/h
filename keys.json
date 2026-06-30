@@ -1160,15 +1160,15 @@
       "username": "joms84",
       "createdAt": "2026-06-30T12:28:43.583Z",
       "expiresAt": "2026-07-01T12:28:43.583Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.31.72.131",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-06-30T12:37:09.109Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.27.10.4",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
