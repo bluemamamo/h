@@ -546,12 +546,12 @@
       "username": "gaming123",
       "password": "qweqwe123",
       "createdAt": "2026-06-30T20:30:59.580Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-06-30T20:31:08.297Z",
       "ipAddress": "10.27.10.4",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-06-30T20:31:17.041Z"
     }
   ]
 }
