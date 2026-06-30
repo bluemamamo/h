@@ -1139,6 +1139,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.27.23.132",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "8W8L-DMHL-TN2C-G2SB",
+      "username": "YANZU",
+      "createdAt": "2026-06-30T06:38:36.886Z",
+      "expiresAt": "2026-07-01T06:38:36.886Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.31.72.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
