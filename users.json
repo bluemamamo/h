@@ -508,6 +508,17 @@
       "lastLogin": "2026-06-29T09:40:13.669Z",
       "ipAddress": "10.28.187.2",
       "lastKeyGen": "2026-06-29T09:40:27.811Z"
+    },
+    {
+      "username": "coll",
+      "password": "coll",
+      "createdAt": "2026-06-30T04:20:14.403Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.28.50.131",
+      "lastKeyGen": null
     }
   ]
 }
