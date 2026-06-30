@@ -1010,7 +1010,7 @@
       "username": "LANG",
       "createdAt": "2026-06-29T01:07:23.727Z",
       "expiresAt": "2026-06-30T01:07:23.727Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.24.127.129",
       "referer": "direct",
