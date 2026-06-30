@@ -1040,7 +1040,7 @@
       "username": "kalabaw",
       "createdAt": "2026-06-29T04:40:07.060Z",
       "expiresAt": "2026-06-30T04:40:07.060Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.30.207.129",
       "referer": "direct",
