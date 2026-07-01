@@ -1199,6 +1199,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.26.75.40",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "EA8X-EF1U-PN3N-V6KG",
+      "username": "ROLAND",
+      "createdAt": "2026-07-01T02:02:45.227Z",
+      "expiresAt": "2026-07-02T02:02:45.227Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.181.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
