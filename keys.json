@@ -1175,7 +1175,7 @@
       "username": "amang23",
       "createdAt": "2026-06-30T14:15:28.896Z",
       "expiresAt": "2026-07-01T14:15:28.896Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.23.132",
       "referer": "direct",
