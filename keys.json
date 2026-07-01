@@ -1244,6 +1244,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.26.181.2",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "ZROQ-Z39N-5I2R-UAL7",
+      "username": "joms84",
+      "createdAt": "2026-07-01T23:02:51.602Z",
+      "expiresAt": "2026-07-02T23:02:51.602Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.181.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
