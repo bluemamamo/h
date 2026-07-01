@@ -1229,6 +1229,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.29.50.143",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "DS31-3LXZ-EI3N-FV8L",
+      "username": "kiro",
+      "createdAt": "2026-07-01T05:18:16.313Z",
+      "expiresAt": "2026-07-02T05:18:16.313Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.30.186.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
