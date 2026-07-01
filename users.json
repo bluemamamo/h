@@ -26,11 +26,12 @@
       "username": "Tembuni",
       "password": "Totoroyo9870",
       "createdAt": "2026-06-25T06:01:14.994Z",
-      "keysGenerated": 1,
-      "totalKeys": 1,
+      "keysGenerated": 2,
+      "totalKeys": 2,
       "activeKeys": 1,
       "lastLogin": "2026-07-01T03:28:23.480Z",
-      "ipAddress": "10.27.23.132"
+      "ipAddress": "10.27.23.132",
+      "lastKeyGen": "2026-07-01T03:28:31.773Z"
     },
     {
       "username": "daryl",
