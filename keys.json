@@ -1115,7 +1115,7 @@
       "username": "coll",
       "createdAt": "2026-06-30T04:20:30.040Z",
       "expiresAt": "2026-07-01T04:20:30.040Z",
-      "status": "active",
+      "status": "expired",
       "type": "1day",
       "ip": "10.27.43.242",
       "referer": "direct",
