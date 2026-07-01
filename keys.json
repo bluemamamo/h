@@ -1220,15 +1220,15 @@
       "username": "Tembuni",
       "createdAt": "2026-07-01T03:28:31.773Z",
       "expiresAt": "2026-07-02T03:28:31.773Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.23.132",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-01T03:30:41.895Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.29.50.143",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
