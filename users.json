@@ -564,6 +564,17 @@
       "lastLogin": "2026-07-01T05:17:16.179Z",
       "ipAddress": "10.27.43.242",
       "lastKeyGen": "2026-07-01T05:18:16.313Z"
+    },
+    {
+      "username": "Aloth",
+      "password": "09351816402",
+      "createdAt": "2026-07-01T21:43:08.544Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.28.50.131",
+      "lastKeyGen": null
     }
   ]
 }
