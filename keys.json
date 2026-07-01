@@ -1214,6 +1214,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.31.13.130",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "1O2R-1D0N-ZP2K-CG22",
+      "username": "Tembuni",
+      "createdAt": "2026-07-01T03:28:31.773Z",
+      "expiresAt": "2026-07-02T03:28:31.773Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.23.132",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
