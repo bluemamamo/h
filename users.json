@@ -558,12 +558,12 @@
       "username": "kiro",
       "password": "kiro",
       "createdAt": "2026-07-01T05:17:07.200Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-01T05:17:16.179Z",
       "ipAddress": "10.27.43.242",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-01T05:18:16.313Z"
     }
   ]
 }
