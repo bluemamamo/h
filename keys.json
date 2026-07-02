@@ -1259,6 +1259,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.27.43.242",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "KUX5-G90Q-3W6Y-OS5L",
+      "username": "ROLAND",
+      "createdAt": "2026-07-02T01:27:49.583Z",
+      "expiresAt": "2026-07-03T01:27:49.583Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.10.4",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
