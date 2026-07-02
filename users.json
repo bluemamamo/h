@@ -575,6 +575,17 @@
       "lastLogin": "2026-07-01T21:45:06.269Z",
       "ipAddress": "10.28.50.131",
       "lastKeyGen": null
+    },
+    {
+      "username": "ko101",
+      "password": "Hotdog321",
+      "createdAt": "2026-07-02T01:40:28.171Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.26.181.2",
+      "lastKeyGen": null
     }
   ]
 }
