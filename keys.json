@@ -1340,15 +1340,15 @@
       "username": "kenjie",
       "createdAt": "2026-07-02T05:02:16.220Z",
       "expiresAt": "2026-07-03T05:02:16.220Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.26.181.2",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-02T05:02:55.707Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.26.96.8",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
