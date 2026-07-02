@@ -1304,6 +1304,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.27.10.4",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "CE66-1482-K6WT-HGO9",
+      "username": "Tembuni",
+      "createdAt": "2026-07-02T04:03:19.515Z",
+      "expiresAt": "2026-07-03T04:03:19.515Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.28.50.131",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
