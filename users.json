@@ -586,6 +586,17 @@
       "lastLogin": "2026-07-02T02:16:06.499Z",
       "ipAddress": "10.24.131.6",
       "lastKeyGen": "2026-07-02T01:41:18.480Z"
+    },
+    {
+      "username": "zian",
+      "password": "zian",
+      "createdAt": "2026-07-02T02:39:48.125Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.27.43.242",
+      "lastKeyGen": null
     }
   ]
 }
