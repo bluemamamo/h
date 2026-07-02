@@ -613,12 +613,12 @@
       "username": "Jemar21",
       "password": "atayka",
       "createdAt": "2026-07-02T04:16:37.868Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-02T04:16:47.222Z",
       "ipAddress": "10.28.50.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-02T04:16:57.696Z"
     }
   ]
 }
