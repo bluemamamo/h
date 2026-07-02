@@ -591,12 +591,12 @@
       "username": "zian",
       "password": "zian",
       "createdAt": "2026-07-02T02:39:48.125Z",
-      "keysGenerated": 0,
-      "totalKeys": 0,
+      "keysGenerated": 1,
+      "totalKeys": 1,
       "activeKeys": 0,
       "lastLogin": "2026-07-02T02:39:55.591Z",
       "ipAddress": "10.28.50.131",
-      "lastKeyGen": null
+      "lastKeyGen": "2026-07-02T02:40:03.177Z"
     }
   ]
 }
