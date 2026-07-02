@@ -1265,15 +1265,15 @@
       "username": "ROLAND",
       "createdAt": "2026-07-02T01:27:49.583Z",
       "expiresAt": "2026-07-03T01:27:49.583Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.10.4",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-02T01:28:06.206Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.26.181.2",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
