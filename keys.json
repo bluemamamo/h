@@ -1295,15 +1295,15 @@
       "username": "zian",
       "createdAt": "2026-07-02T02:40:03.177Z",
       "expiresAt": "2026-07-03T02:40:03.177Z",
-      "status": "pending",
+      "status": "active",
       "type": "1day",
       "ip": "10.27.10.4",
       "referer": "direct",
       "userAgent": "unknown",
-      "verifiedAt": null,
-      "verifiedFrom": null,
-      "verifiedIP": null,
-      "verifiedUserAgent": null
+      "verifiedAt": "2026-07-02T02:40:24.169Z",
+      "verifiedFrom": "direct",
+      "verifiedIP": "10.27.10.4",
+      "verifiedUserAgent": "unknown"
     }
   ]
 }
