@@ -1334,6 +1334,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.26.96.8",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "VBE1-BHCT-O8OH-GS8R",
+      "username": "kenjie",
+      "createdAt": "2026-07-02T05:02:16.220Z",
+      "expiresAt": "2026-07-03T05:02:16.220Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.26.181.2",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
