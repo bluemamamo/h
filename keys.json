@@ -1289,6 +1289,21 @@
       "verifiedFrom": "direct",
       "verifiedIP": "10.27.43.242",
       "verifiedUserAgent": "unknown"
+    },
+    {
+      "key": "VBIL-EDHK-KN37-YRWU",
+      "username": "zian",
+      "createdAt": "2026-07-02T02:40:03.177Z",
+      "expiresAt": "2026-07-03T02:40:03.177Z",
+      "status": "pending",
+      "type": "1day",
+      "ip": "10.27.10.4",
+      "referer": "direct",
+      "userAgent": "unknown",
+      "verifiedAt": null,
+      "verifiedFrom": null,
+      "verifiedIP": null,
+      "verifiedUserAgent": null
     }
   ]
 }
