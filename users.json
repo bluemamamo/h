@@ -608,6 +608,17 @@
       "lastLogin": null,
       "ipAddress": "10.26.96.8",
       "lastKeyGen": null
+    },
+    {
+      "username": "Jemar21",
+      "password": "atayka",
+      "createdAt": "2026-07-02T04:16:37.868Z",
+      "keysGenerated": 0,
+      "totalKeys": 0,
+      "activeKeys": 0,
+      "lastLogin": null,
+      "ipAddress": "10.28.50.131",
+      "lastKeyGen": null
     }
   ]
 }
